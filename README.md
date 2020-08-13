@@ -1,6 +1,11 @@
 # ls2-extra-mods-unofficial
 Information about adding and testing mods for compatibility with Living Skyrim modlist
 
+**IMPORTANT NOTE!!!**
+This is a completely unofficial listing of mods that I and others from the Living Skyrim community have attempted to make work with the base Living Skyrim modlist. Adding ANY of these completely voids all support from ForgottenGlory and the Living Skyrim development team. Any custom patches are EXPERIMENTAL and load/install suggestions are ONLY SUGGESTIONS, using any of them is completely at your own risk.
+
+I made this to collaborate on ideas, but it is entirely unofficial. You've been warned!
+
 ## Notes on how to use/contribute
 
 **Recommendation ratings**
@@ -318,6 +323,55 @@ _None_
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
   * Echtra.esp is currently before ELE_SSE.esp
+  
+
+## Maelstrom - Fully Voiced Follower and Quest Mod SSE
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/29170
+
+**Summary:** Multipart quest line with follower
+
+**LS2 Compatibility Status:** Minimal conflicts (no known stability issues after patch, have not played through quest yet)
+
+**Recommendations:** 
+_None_
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+* [JOR - Maelstrom / LS2 Patch](custom-patches/JOR_Maelstrom_LS2_Patch.esp)
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * JOR_Maelstrom_LS2 Patch goes after Occlusion.esp (currently forwards Occlusion records, would need to redo if Occlusion changes)
+  
+
+## Rudy HQ - More Lights for ENB SE
+
+**Links:**
+* https://www.nexusmods.com/skyrimspecialedition/mods/22819 (Moths)
+* https://www.nexusmods.com/skyrimspecialedition/mods/22814 (Deathbells and Nirnroots)
+* https://www.nexusmods.com/skyrimspecialedition/mods/22703 (Bthardamz)
+* https://www.nexusmods.com/skyrimspecialedition/mods/22705 (Chaurus Eggs and Sacs)
+* https://www.nexusmods.com/skyrimspecialedition/mods/22704 (Soul Gems, use the "Patch for Rustic Soulgems" version)
+
+**Summary:** New textures and meshes for the
+
+**LS2 Compatibility Status:** Excellent (no stability issues, no patching needed)
+
+**Recommendations:** 
+* JaxomofRuatha (Highly Recommend)
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Install order Moths -> Deathbells and Nirnroots -> Bthardamz -> Chaurus Eggs and Sacs -> Soul Gems, last should at least be after RUSTIC SOUL GEMS
 
 
 ## Miscellaneous Patches and Tweaks
