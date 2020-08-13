@@ -84,7 +84,7 @@ _None_
 **LS2 Compatibility Status:** Excellent (no issues, no patching required)
 
 **Recommendations:** 
-* JaxomofRuatha (Highly Recommend, used 2k Dirty)
+* JaxomofRuatha (Highly Recommend, used 2k Dirty and Vanilla Overwrite options)
 
 **Official Patches:**
 _None_
@@ -100,7 +100,7 @@ _None_
 ## Pastel SkyUI Markers/Colorful Map Markers
 
 **Links:**
-* https://www.nexusmods.com/skyrimspecialedition/mods/13604 (Pastel SkyUI Markers)
+* https://www.nexusmods.com/skyrimspecialedition/mods/13604 (Pastel SkyUI Markers, use SkyHUD file version)
 * https://www.nexusmods.com/skyrimspecialedition/mods/38079 (Colorful Map Markers)
 
 **Summary:** Changes HUD and map markers to colored versions (either pastel or vivid)
