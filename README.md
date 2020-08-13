@@ -598,7 +598,7 @@ _None_
   
 ## Fix for 2.2.1 Black Face Bugs
 
-**Link:** [Patch by JaxomofRuatha](custom-patches/LS2 BFB Fixes Patch.esp)
+**Link:** [Patch by JaxomofRuatha](custom-patches/LS2%20BFB%20Fixes%20Patch.esp)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
