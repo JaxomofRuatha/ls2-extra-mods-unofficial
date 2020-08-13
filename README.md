@@ -275,6 +275,51 @@ _None_
   * The Tale of Tsatampra Xiros.esp is currently before ELE_SSE.esp
 
 
+## Voyage to the Dreamborne Isles SE
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/20048
+
+**Summary:** New land with several quests/storylines to complete
+
+**LS2 Compatibility Status:** Minimal conflicts (no known stability issues, have not played through quest yet)
+
+**Recommendations:** 
+_None_
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Dreamborne Islands.esp is currently before ELE_SSE.esp
+  * The mod is currently installed after Bashed Patch and before BodySlide Output, unsure if this is necessary
+
+
+## Away Come Away
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/34360
+
+**Summary:** Short quest with female-only armor and weapons as a reward
+
+**LS2 Compatibility Status:** No conflicts (no known stability issues, have not played through quest yet)
+
+**Recommendations:** 
+_None_
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Echtra.esp is currently before ELE_SSE.esp
+
+
 ## Miscellaneous Patches and Tweaks
 
 **Re-Add Nirnroot sounds from Immersive Sounds - Compendium**
