@@ -27,6 +27,8 @@ For several patches and files, there is already a downloaded version with LS2, b
 3. Only install the relevant files/patches you're trying to overwrite/add (if possible)
 4. If the FOMOD doesn't allow for selecting only specific files/patches, finish installing and go to "Information..." on the mod. From there, it is possible under the "Filetree" tab to delete any unused files in the mod, so that the originals remain intact from the first installation
 
+# Added Mods
+
 ## Depths of Skyrim - An Underwater Overhaul SSE
 
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/26913
@@ -144,7 +146,7 @@ _None_
 ## Enigma Series SSE / Talkative Dragons
 
 **Links:**
-* https://www.nexusmods.com/skyrimspecialedition/mods/34681 (Enigma Series All In One)
+* https://www.nexusmods.com/skyrimspecialedition/mods/34620 (Enigma Series All In One)
 * https://www.nexusmods.com/skyrimspecialedition/mods/26955 (Talkative Dragons)
 
 **Summary:** Changes many dragons' speaking voices to be more inhuman and intimidating, and uses vanilla voice lines to have normal dragons speak in combat
@@ -368,6 +370,54 @@ _None_
 * JaxomofRuatha (LS2 version 2.2.1)
   * Load order shouldn't make a difference, I currently have plugin after Occlusion.esp
   
+## The Northerner Diaries in Skyrim
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/22882
+
+**Summary:** Adds extra exploring music tracks
+
+**LS2 Compatibility Status:** No conflicts (no patches needed)
+
+**Recommendations:** 
+_None_
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Load order shouldn't make a difference, I currently have plugin after Occlusion.esp
+
+
+## ENB Light
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/22574 (use "ENB Light 0.95 Release Candidate 2")
+
+**Summary:** Adds extra dynamic light sources and shadows
+
+**LS2 Compatibility Status:** Good (no stability issues, probably best skipped if your machine is already hitting its limit)
+
+**Recommendations:** 
+* JaxomofRuatha (Highly Recommend)
+
+**Official Patches:**
+* https://www.nexusmods.com/skyrimspecialedition/mods/22574 (ENB Light 0.95 RC2 patch 1, ENB Light 0.95 RC2 patch 2, Magic Staff lights, Glowing Caveworms and Blackreach Plants, patch for Quick Light SE, patch for Visual Animated Enchants, Inferno patch and Fire fixes)
+
+**Custom Patches:**
+* [JOR - ENB Light / ELE SSE Patch](custom-patches/JOR_ENBLight_ELESSE_Patch.esp)
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * ENB Light.esp is currently before Audio Overhaul Skyrim.esp
+  * JOR_ENBLight_ELESSE_Patch.esp is currently before ai overhaul patch.esp
+  
+**Extra Notes:**
+
+Logan has a more in-depth install guide [here](https://docs.google.com/presentation/d/1oZ7UgK3fkUbN3jtrP7AHBUH3fxwAOwDnkYHDYOwvWeo/edit#slide=id.p), I personally didn't use any of the ENB or camera changes.
+
 
 ## Rudy HQ - More Lights for ENB SE
 
@@ -486,8 +536,85 @@ _None_
 _None_
 
 
-## Miscellaneous Patches and Tweaks
+## Halted Stream Camp - Revisited
 
-**Re-Add Nirnroot sounds from Immersive Sounds - Compendium**
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/39199
+
+**Summary:** Reworks the interior of Halted Stream Camp
+
+**LS2 Compatibility Status:** No conflicts, but comments on the mod indicate there might be a consistency issue with the Halted Stream Mine mod (didn't cause instability issue for me, but may cause issues once the camp is "conquered" and initiates the Halted Stream Mine mod features)
+
+**Recommendations:** 
+* JaxomofRuatha (Highly Recommend)
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * HaltedStreamCampRevisited.esp is currently before moonpath.esp
+  
+
+## Triumvirate - Mage Archetypes
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/39170
+
+**Summary:** Adds several new mage archetypes and spells to support them
+
+**LS2 Compatibility Status:** Minimal conflicts, seems stable after patching
+
+**Recommendations:**
+_None_
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+* [Triumvirate / Dawnguard Arsenal Patch (falcon7370)](custom-patches/Triumvirate_-_Dawnguard_Arsenal_Patch.rar)
+
+**Load/Install Order Notes:**
+_None_
+
+
+# Miscellaneous Patches and Tweaks
+
+## Re-Add Nirnroot sounds from Immersive Sounds - Compendium
 
 * Re-install Immersive Sounds - Compendium with a new name, but select whichever Nirnroot sound you prefer. Once installed, go into its Filetree and delete everything except for `sound/fx/itm_is/ingredient/itm_nirnroot_lp.wav`. Then just make sure it's after the original ISC mod in the install order.
+
+# Experimental/Temporary Bug Fixes and Consistency Patches
+
+## Fix for Archery Gameplay Overhaul and Pretty Combat Animations issue
+
+**Link:** [Patch by TwistedModding](custom-patches/ago_pca_patch.rar)
+
+**Load/Install Order Notes:**
+* TwistedModding
+  * Patch ESP should go after both Compatibility Patch for Archery Gameplay Overhaul (AGO) and XP32 Skeleton Styles MCM
+
+# Mods Under Review
+
+**These are mods that are known through reputation, interest, or prior attempts to integrate, and either haven't been correctly integrated/patched for LS2 yet or haven't had an attempt to add them**
+
+
+## M'Rissi's Tails of Troubles SE
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/9666
+
+**Summary:** Adds a new follower and quests related to her
+
+**LS2 Compatibility Status:** There is a patch for OCW, and I made an experimental patch for Relighting Skyrim, but I had significant crashing issues due to the conflicts with the Hedge Mage Armor. It's possible that using the "no Worldspace edits" version of HMA will allow this to work.
+
+
+## Cheesemod for EVERYONE
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/36506
+
+**Summary:** Adds a huge amount of hand-placed cheeses and a quest with Sheogorath
+
+**LS2 Compatibility Status:** Patches exist for PCE and JK's interiors, but there were enough conflicts that I wasn't comfortable adding it without checking the Placed Item records (since getting through most of them would be incredibly frustrating if you couldn't finish)
+
+
