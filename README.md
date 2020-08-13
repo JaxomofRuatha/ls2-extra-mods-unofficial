@@ -594,6 +594,19 @@ _None_
 **Load/Install Order Notes:**
 * TwistedModding
   * Patch ESP should go after both Compatibility Patch for Archery Gameplay Overhaul (AGO) and XP32 Skeleton Styles MCM
+  
+  
+## Fix for 2.2.1 Black Face Bugs
+
+**Link:** [Patch by JaxomofRuatha](custom-patches/LS2 BFB Fixes Patch.esp)
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Patch ESP can go anywhere after Men Of Winter.esp and male npc overahul se.esp
+  
+**Extra Notes**
+
+Included NPCs in this patch are Golldir, Erandur, Vorstag, Madanach, Benor, Marcurio, Belrand, and Stenvar. The Men of Winter records were forwarded as is, so if there's changes in new LS releases, that might not be quite the same if there's customized patching.
 
 # Mods Under Review
 
