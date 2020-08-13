@@ -3,8 +3,6 @@ Information about adding and testing mods for compatibility with Living Skyrim m
 
 ## Depths of Skyrim
 
-**Mod Name:** Depths of Skyrim
-
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/26913
 
 **Summary:** Adds underwater content and plant life
