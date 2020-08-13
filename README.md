@@ -1,7 +1,7 @@
 # ls2-extra-mods-unofficial
 Information about adding and testing mods for compatibility with Living Skyrim modlist
 
-## Depths of Skyrim
+## Depths of Skyrim - An Underwater Overhaul SSE
 
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/26913
 
