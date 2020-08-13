@@ -45,6 +45,7 @@ For several patches and files, there is already a downloaded version with LS2, b
   * DBM_DepthsofSkyrim_Patch.esp is before ELE_SSE.esp (NOTE: I reinstalled the Legacy of the Dragonborn Official Patches with a different name and no other patches enabled to get this)
   * JOR_DepthsOfSkyrim_KynesGrass_Patch.esp is before ai overhaul patch.esp
 
+
 ## MAPS
 
 **Link:** https://www.nexusmods.com/skyrim/mods/66819
@@ -65,7 +66,8 @@ _None_
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
   * MAPS goes after "unofficial performance optimized textures AKA (UPOT)" for install order
-  
+
+
 ## JS Purses and Septims SE
 
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/37306
@@ -86,6 +88,7 @@ _None_
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
   * Mod goes after "Player Homes Merged" and "Forgotten Retex Project" 
+
 
 ## Pastel SkyUI Markers/Colorful Map Markers
 
@@ -110,6 +113,7 @@ _None_
 * JaxomofRuatha (LS2 version 2.2.1)
   * Either mod goes after SkyHUD for install order
  
+
 ## Save the Icerunner - Lights Out Alternate Routes
 
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/34681
@@ -130,7 +134,8 @@ _None_
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
   * JOR_SaveTheIcerunner_LS2Merges_Patch.esp is before ai overhaul patch.esp
-  
+
+
 ## Enigma Series SSE / Talkative Dragons
 
 **Links:**
@@ -154,7 +159,8 @@ _None_
 * JaxomofRuatha (LS2 version 2.2.1)
   * DragonCombatDialogue.esp seems like it can go anywhere after the vanilla and DLC, I have it after Occlusion.esp currently
   * Enigma Series AIO and Talkative Dragons installed first, then the patches, making sure all of it is after VIGILANT/Wyrmstooth
-  
+
+
 ## Keld-Nar
 
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/14353
@@ -176,7 +182,30 @@ _None_
 * JaxomofRuatha (LS2 version 2.2.1)
   * Keld-Nar.esp and Keld-Nar + Clockwork Patch.esp are in that order immediately before LOS2 Merged.esp
   * JOR_KeldNar_TradeAndBarter_Patch.esp is before ai overhaul patch.esp
-  
+
+
+## Northern Marsh Bridges SE
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/9107
+
+**Summary:** Adds some wooden bridges across the marshes in Hjaalmarch
+
+**LS2 Compatibility Status:** Good (no stability issues known, no patching required)
+
+**Recommendations:** 
+* JaxomofRuatha (Highly Recommend)
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Northern Marsh Bridges SE.esp is before ELE_SSE.esp
+
+
 ## Strange Runes
 
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/19456
@@ -197,7 +226,33 @@ _None_
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
   * StrangeRunes.esp seems to work fine wherever, I currently have it after Occlusion.esp
-  
+
+
+## Bard Instrumentals Mostly / Alternative Bards Songs
+
+**Links:**
+* https://www.nexusmods.com/skyrimspecialedition/mods/10927 (Bard Instrumentals Mostly - Sing Rarely)
+* https://www.nexusmods.com/skyrimspecialedition/mods/797 (Alternative Bards Drum Songs)
+* https://www.nexusmods.com/skyrimspecialedition/mods/795 (Alternative Bards Lute Songs)
+
+**Summary:** Makes bards sing much less often, and changes the lute/drum songs to new ones
+
+**LS2 Compatibility Status:** Excellent (no issues, no patching required)
+
+**Recommendations:** 
+* JaxomofRuatha (Highly Recommend)
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Alternative songs mods should go after "Lucidity Sound FX SSE"
+
+
 ## The Tale of Tsatampra Xiros
 
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/36707
@@ -218,6 +273,7 @@ _None_
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
   * The Tale of Tsatampra Xiros.esp is currently before ELE_SSE.esp
+
 
 ## Miscellaneous Patches and Tweaks
 
