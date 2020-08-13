@@ -47,6 +47,6 @@ _None_
   
 ## Miscellaneous Patches and Tweaks
 
-**Re-Add Nirnroot sounds from Immersive Sounds - Compendium
+**Re-Add Nirnroot sounds from Immersive Sounds - Compendium**
 
 * Re-install Immersive Sounds - Compendium with a new name, but select whichever Nirnroot sound you prefer. Once installed, go into its Filetree and delete everything except for `sound/fx/itm_is/ingredient/itm_nirnroot_lp.wav`. Then just make sure it's after the original ISC mod in the install order.
