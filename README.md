@@ -65,6 +65,27 @@ _None_
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
   * MAPS goes after "unofficial performance optimized textures AKA (UPOT)" for install order
+  
+## JS Purses and Septims SE
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/37306
+
+**Summary:** Adds high quality textures for purses and septims
+
+**LS2 Compatibility Status:** Excellent (no issues, no patching required)
+
+**Recommendations:** 
+* JaxomofRuatha (Highly Recommend, used 2k Dirty)
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Mod goes after "Player Homes Merged" and "Forgotten Retex Project" 
 
 ## Pastel SkyUI Markers/Colorful Map Markers
 
@@ -133,6 +154,27 @@ _None_
 * JaxomofRuatha (LS2 version 2.2.1)
   * DragonCombatDialogue.esp seems like it can go anywhere after the vanilla and DLC, I have it after Occlusion.esp currently
   * Enigma Series AIO and Talkative Dragons installed first, then the patches, making sure all of it is after VIGILANT/Wyrmstooth
+  
+## Strange Runes
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/19456
+
+**Summary:** Adds glowing glyph/rune animated effects to spellcasting 
+
+**LS2 Compatibility Status:** Good (no issues, no patching required, current version does not seem to work with wards)
+
+**Recommendations:** 
+* JaxomofRuatha (Highly Recommend, prefer Pastel)
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Either mod goes after SkyHUD for install order
   
 ## The Tale of Tsatampra Xiros
 
