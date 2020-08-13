@@ -347,6 +347,28 @@ _None_
   * JOR_Maelstrom_LS2 Patch goes after Occlusion.esp (currently forwards Occlusion records, would need to redo if Occlusion changes)
   
 
+## Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/37792
+
+**Summary:** Adds extra exploring music tracks
+
+**LS2 Compatibility Status:** No conflicts (no patches needed)
+
+**Recommendations:** 
+* JaxomofRuatha (Highly Recommend)
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Load order shouldn't make a difference, I currently have plugin after Occlusion.esp
+  
+
 ## Rudy HQ - More Lights for ENB SE
 
 **Links:**
@@ -356,7 +378,7 @@ _None_
 * https://www.nexusmods.com/skyrimspecialedition/mods/22705 (Chaurus Eggs and Sacs)
 * https://www.nexusmods.com/skyrimspecialedition/mods/22704 (Soul Gems, use the "Patch for Rustic Soulgems" version)
 
-**Summary:** New textures and meshes for the
+**Summary:** New textures and meshes for the listed objects that add more light sources
 
 **LS2 Compatibility Status:** Excellent (no stability issues, no patching needed)
 
@@ -372,6 +394,96 @@ _None_
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
   * Install order Moths -> Deathbells and Nirnroots -> Bthardamz -> Chaurus Eggs and Sacs -> Soul Gems, last should at least be after RUSTIC SOUL GEMS
+  
+## Fluffy Snow
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/8955
+
+**Summary:** Changes the snow texture to look more fluffy
+
+**LS2 Compatibility Status:** Good (no stability issues, some places where the texture is used look a bit odd due to stretching)
+
+**Recommendations:** 
+* JaxomofRuatha (Highly Recommend)
+
+**Official Patches:**
+* https://www.nexusmods.com/skyrimspecialedition/mods/8955 (Majestic Mountains, Windhelm Bridge and Street, Blended Roads)
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Fluffy Snow - BlendedRoads Patch.esp is before ELE_SSE.esp
+  
+
+## Provincial Courier Service
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/10623
+
+**Summary:** Adds a home for the Courier near Whiterun
+
+**LS2 Compatibility Status:** No stability issues, conflicted AI (custom patch is intended to forward AI packages, but was not able to do so without eliminating Courier visual overhaul from LS2...he currently just stands outside of the building instead of sandboxing correctly)
+
+**Recommendations:** 
+* JaxomofRuatha (Okay)
+
+**Official Patches:**
+* https://www.nexusmods.com/skyrimspecialedition/mods/9005 (Arthmoor's town add-ons, reinstall from LS2 with only "Provincial Courier" selected)
+
+**Custom Patches:**
+* [JOR - Provincial Courier Service / Male NPC Overhaul Patch](custom-patches/JOR_ProvincialCourierService_MaleNPCOverhaul_Patch.esp)
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Provincial Courier Service.esp is before ELE_SSE.esp
+  * Landscape For Grass Mods -Provincial Courier PATCH.esp is after Landscape Fixes for Grass Mods.esp
+  * JOR_ProvincialCourierService_MaleNPCOverhaul_Patch.esp is between mape npc overhaul se.esp and ai overhaul patch.esp
+
+
+## Midwood Isle SE
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/28120
+
+**Summary:** New land mod with multiple quests
+
+**LS2 Compatibility Status:** No known stability issues for the game as a whole, have not played through quest yet (definite conflicts, but "resolved" with patch forwarding USSEP changes)
+
+**Recommendations:** 
+_None_
+
+**Official Patches:**
+* https://www.nexusmods.com/skyrimspecialedition/mods/28120 (CBBE Plated Robes, Dangerous NPCs Patch, Legacy of the Dragonborn Patch, Lights control by Tarlazo, Solitude ship alternative location 2 patch)
+
+**Custom Patches:**
+* [JOR - Midwood Isle SE / USSEP Patch](custom-patches/JOR_MidwoodIsle_USSEP_Patch.esp.esp)
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Currently Midwood Isle.esp and MI Alt Ship Loc 2.esp are before SkyUI_SE.esp
+  * DBM_MidwoodIsle_Patch.esp is before ai overhaul patch.esp
+  * Dangerous NPCs MI Patch.esp and MILightsControl.esp are likely okay anywhere, currently after Occlusion.esp
+  
+
+## Dear Diary - Paper SkyUI Menus Replacer SE
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/23010
+
+**Summary:** Changes SkyUI menus to have a paper/journal theme
+
+**LS2 Compatibility Status:** No conflicts (no patches needed)
+
+**Recommendations:** 
+* JaxomofRuatha (Highly Recommend)
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+_None_
 
 
 ## Miscellaneous Patches and Tweaks
