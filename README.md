@@ -155,6 +155,28 @@ _None_
   * DragonCombatDialogue.esp seems like it can go anywhere after the vanilla and DLC, I have it after Occlusion.esp currently
   * Enigma Series AIO and Talkative Dragons installed first, then the patches, making sure all of it is after VIGILANT/Wyrmstooth
   
+## Keld-Nar
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/14353
+
+**Summary:** Adds a new village with NPCs and some local quests, in addition to being an option for radiant quests (Missives)
+
+**LS2 Compatibility Status:** Good (no stability issues known after patching)
+
+**Recommendations:** 
+* JaxomofRuatha (Highly Recommend)
+
+**Official Patches:**
+* https://www.nexusmods.com/skyrimspecialedition/mods/14353 (Clockwork Patch
+
+**Custom Patches:**
+* [JOR - Keld-Nar / Trade & Barter Patch](custom-patches/JOR_KeldNar_TradeAndBarter_Patch.esp)
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Keld-Nar.esp and Keld-Nar + Clockwork Patch.esp are in that order immediately before LOS2 Merged.esp
+  * JOR_KeldNar_TradeAndBarter_Patch.esp is before ai overhaul patch.esp
+  
 ## Strange Runes
 
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/19456
@@ -164,7 +186,7 @@ _None_
 **LS2 Compatibility Status:** Good (no issues, no patching required, current version does not seem to work with wards)
 
 **Recommendations:** 
-* JaxomofRuatha (Highly Recommend, prefer Pastel)
+* JaxomofRuatha (Highly Recommend)
 
 **Official Patches:**
 _None_
@@ -174,7 +196,7 @@ _None_
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
-  * Either mod goes after SkyHUD for install order
+  * StrangeRunes.esp seems to work fine wherever, I currently have it after Occlusion.esp
   
 ## The Tale of Tsatampra Xiros
 
