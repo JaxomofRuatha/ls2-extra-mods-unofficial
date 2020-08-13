@@ -91,7 +91,7 @@ _None_
  
 ## Save the Icerunner - Lights Out Alternate Routes
 
-**Links:** https://www.nexusmods.com/skyrimspecialedition/mods/34681
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/34681
 
 **Summary:** Adds quest and dialogue options into the "Lights Out!" vanilla quest
 
@@ -109,6 +109,51 @@ _None_
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
   * JOR_SaveTheIcerunner_LS2Merges_Patch.esp is before ai overhaul patch.esp
+  
+## Enigma Series SSE / Talkative Dragons
+
+**Links:**
+* https://www.nexusmods.com/skyrimspecialedition/mods/34681 (Enigma Series All In One)
+* https://www.nexusmods.com/skyrimspecialedition/mods/26955 (Talkative Dragons)
+
+**Summary:** Changes many dragons' speaking voices to be more inhuman and intimidating, and uses vanilla voice lines to have normal dragons speak in combat
+
+**LS2 Compatibility Status:** Good (no stability issues known after patching)
+
+**Recommendations:** 
+* JaxomofRuatha (Highly Recommend)
+
+**Official Patches:**
+* https://www.nexusmods.com/skyrimspecialedition/mods/33084 (Talkative Dragons, VIGILANT, Wyrmstooth)
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * DragonCombatDialogue.esp seems like it can go anywhere after the vanilla and DLC, I have it after Occlusion.esp currently
+  * Enigma Series AIO and Talkative Dragons installed first, then the patches, making sure all of it is after VIGILANT/Wyrmstooth
+  
+## The Tale of Tsatampra Xiros
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/36707
+
+**Summary:** Daedric quest mod, with a player home once completed
+
+**LS2 Compatibility Status:** Good (no known issues, no patching known but one minor Placed Item conflict)
+
+**Recommendations:** 
+_None_
+
+**Official Patches:**
+_None_
+
+**Custom Patches:**
+_None_
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * The Tale of Tsatampra Xiros.esp is currently before ELE_SSE.esp
 
 ## Miscellaneous Patches and Tweaks
 
