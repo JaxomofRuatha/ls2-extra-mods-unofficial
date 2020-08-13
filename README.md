@@ -471,7 +471,7 @@ _None_
 
 **Summary:** Changes SkyUI menus to have a paper/journal theme
 
-**LS2 Compatibility Status:** No conflicts (no patches needed)
+**LS2 Compatibility Status:** No conflicts (no patches needed, just don't select the options to replace main menu/loading screens/map)
 
 **Recommendations:** 
 * JaxomofRuatha (Highly Recommend)
