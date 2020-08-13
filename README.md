@@ -21,4 +21,5 @@ Information about adding and testing mods for compatibility with Living Skyrim m
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
   * DepthsOfSkyrim.esp is immediately before Kyne's Grass.esp
+  * DBM_DepthsofSkyrim_Patch.esp is before ELE_SSE.esp (NOTE: I reinstalled the Legacy of the Dragonborn Official Patches with a different name and no other patches enabled to get this)
   * JOR_DepthsOfSkyrim_KynesGrass_Patch.esp is before ai overhaul patch.esp
