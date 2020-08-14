@@ -351,7 +351,7 @@ _None_
 
 ## Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)
 
-**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/37792
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/37792 (Download "Chapter II" ONLY, should be first file option)
 
 **Summary:** Adds extra exploring music tracks
 
