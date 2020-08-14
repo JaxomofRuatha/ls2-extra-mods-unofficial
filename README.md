@@ -593,7 +593,7 @@ _None_
 
 **Load/Install Order Notes:**
 * TwistedModding
-  * Patch ESP should go after both Compatibility Patch for Archery Gameplay Overhaul (AGO) and XP32 Skeleton Styles MCM
+  * Place this patch after the mod: Compatibility Patch for Archery Gameplay Overhaul (AGO) and XP32 Skeleton Styles MCM
   
   
 ## Fix for 2.2.1 Black Face Bugs
