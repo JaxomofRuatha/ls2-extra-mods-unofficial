@@ -13,7 +13,7 @@
 * [OCW Patch](https://www.nexusmods.com/skyrimspecialedition/mods/4625)
 
 **Custom Patches:**
-* [JOR - Music Merged / LS2 Patches and ELE Patch](custom-patches\JOR_MusicMerged_LS2Patches_Patch.esp)
+* [JOR - Music Merged / LS2 Patches and ELE Patch](custom-patches/JOR_MusicMerged_LS2Patches_Patch.esp)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)

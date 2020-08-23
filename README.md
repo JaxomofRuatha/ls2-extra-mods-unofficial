@@ -37,63 +37,63 @@ For several patches and files, there is already a downloaded version with LS2, b
 
 ## Must-Add
 
-[Depths of Skyrim - An Underwater Overhaul SSE](mod-details\DepthsOfSkyrim.md)
+[Depths of Skyrim - An Underwater Overhaul SSE](mod-details/DepthsOfSkyrim.md)
 
-[MAPS](mod-details\MAPS.md)
+[MAPS](mod-details/MAPS.md)
 
 ## Highly Recommend
 
-[JS Purses and Septims SE](mod-details\JSPursesAndSeptims.md)
+[JS Purses and Septims SE](mod-details/JSPursesAndSeptims.md)
 
-[Pastel SkyUI Markers/Colorful Map Markers](mod-details\PastelMarkers.md)
+[Pastel SkyUI Markers/Colorful Map Markers](mod-details/PastelMarkers.md)
 
-[Save the Icerunner - Lights Out Alternate Routes](mod-details\SaveTheIcerunner.md)
+[Save the Icerunner - Lights Out Alternate Routes](mod-details/SaveTheIcerunner.md)
 
-[Enigma Series SSE / Talkative Dragons](mod-details\EnigmaSeriesTalkativeDragons.md)
+[Enigma Series SSE / Talkative Dragons](mod-details/EnigmaSeriesTalkativeDragons.md)
 
-[Keld-Nar](mod-details\KeldNar.md)
+[Keld-Nar](mod-details/KeldNar.md)
 
-[Northern Marsh Bridges SE](mod-details\NorthernMarshBridges.md)
+[Northern Marsh Bridges SE](mod-details/NorthernMarshBridges.md)
 
-[Strange Runes](mod-details\StrangeRunes.md)
+[Strange Runes](mod-details/StrangeRunes.md)
 
-[Bard Instrumentals Mostly / Alternative Bards Songs](mod-details\AlternativeBardSongs.md)
+[Bard Instrumentals Mostly / Alternative Bards Songs](mod-details/AlternativeBardSongs.md)
 
-[ENB Light](mod-details\ENBLight.md)
+[ENB Light](mod-details/ENBLight.md)
 
-[Dear Diary - Paper SkyUI Menus Replacer SE](mod-details\DearDiary.md)
+[Dear Diary - Paper SkyUI Menus Replacer SE](mod-details/DearDiary.md)
 
-[Halted Stream Camp - Revisited](mod-details\HaltedStreamCampRevisited.md)
+[Halted Stream Camp - Revisited](mod-details/HaltedStreamCampRevisited.md)
 
-[Rudy HQ - More Lights for ENB SE](mod-details\RudyHQMoreLightsForENB.md)
+[Rudy HQ - More Lights for ENB SE](mod-details/RudyHQMoreLightsForENB.md)
 
-[Fluffy Snow](mod-details\FluffySnow.md)
+[Fluffy Snow](mod-details/FluffySnow.md)
 
 [Music Mods Merged](mod-details/MusicModsMerged.md)
 
 ## Okay
 
-[Provincial Courier Service](mod-details\ProvincialCourierService.md)
+[Provincial Courier Service](mod-details/ProvincialCourierService.md)
 
-[Midwood Isle SE](mod-details\MidwoodIsle.md)
+[Midwood Isle SE](mod-details/MidwoodIsle.md)
 
 ## Unreviewed
 
-[The Tale of Tsatampra Xiros](mod-details\TsatampraXiros.md)
+[The Tale of Tsatampra Xiros](mod-details/TsatampraXiros.md)
 
-[Voyage to the Dreamborne Isles SE](mod-details\DreamborneIsles.md)
+[Voyage to the Dreamborne Isles SE](mod-details/DreamborneIsles.md)
 
-[Away Come Away](mod-details\AwayComeAway.md)
+[Away Come Away](mod-details/AwayComeAway.md)
 
-[Maelstrom - Fully Voiced Follower and Quest Mod SSE](mod-details\Maelstrom.md)
+[Maelstrom - Fully Voiced Follower and Quest Mod SSE](mod-details/Maelstrom.md)
 
-[Triumvirate - Mage Archetypes](mod-details\Triumvirate.md)
+[Triumvirate - Mage Archetypes](mod-details/Triumvirate.md)
 
 ## Deprecated or Needs Update/Patch
 
-[Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)](mod-details\ChapterII.md)
+[Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)](mod-details/ChapterII.md)
 
-[The Northerner Diaries in Skyrim](mod-details\NorthernerDiaries.md)
+[The Northerner Diaries in Skyrim](mod-details/NorthernerDiaries.md)
 
 <br><br>
 
@@ -136,6 +136,6 @@ These are mods that are known through reputation, interest, or prior attempts to
 
 <br>
 
-[M'Rissi's Tails of Troubles SE](mod-details\MrissisTailsOfTroubles.md)
+[M'Rissi's Tails of Troubles SE](mod-details/MrissisTailsOfTroubles.md)
 
-[Cheesemod for EVERYONE](mod-details\CheesemodForEveryone.md)
+[Cheesemod for EVERYONE](mod-details/CheesemodForEveryone.md)
