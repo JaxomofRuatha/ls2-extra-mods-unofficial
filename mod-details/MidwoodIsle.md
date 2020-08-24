@@ -15,7 +15,7 @@
 * https://www.nexusmods.com/skyrimspecialedition/mods/28120 (CBBE Plated Robes, Dangerous NPCs Patch, Legacy of the Dragonborn Patch, Lights control by Tarlazo, Solitude ship alternative location 2 patch)
 
 **Custom Patches:**
-* [JOR - Midwood Isle SE / USSEP Patch](custom-patches/JOR_MidwoodIsle_USSEP_Patch.esp)
+* [JOR - Midwood Isle SE / USSEP Patch](/custom-patches/JOR_MidwoodIsle_USSEP_Patch.esp)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
