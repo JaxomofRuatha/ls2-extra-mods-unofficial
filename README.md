@@ -71,6 +71,8 @@ For several patches and files, there is already a downloaded version with LS2, b
 
 [Music Mods Merged](mod-details/MusicModsMerged.md)
 
+[A Cat's Life](mod-details/ACatsLife.md)
+
 ## Okay
 
 [Provincial Courier Service](mod-details/ProvincialCourierService.md)
