@@ -13,7 +13,7 @@ _None_
 _None_
 
 **Custom Patches:**
-* [JOR - Maelstrom / LS2 Patch](custom-patches/JOR_Maelstrom_LS2_Patch.esp)
+* [JOR - Maelstrom / LS2 Patch](/custom-patches/JOR_Maelstrom_LS2_Patch.esp)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)

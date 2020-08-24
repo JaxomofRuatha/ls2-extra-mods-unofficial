@@ -13,7 +13,7 @@ _None_
 _None_
 
 **Custom Patches:**
-* [Triumvirate / Dawnguard Arsenal Patch (falcon7370)](custom-patches/Triumvirate_-_Dawnguard_Arsenal_Patch.rar)
+* [Triumvirate / Dawnguard Arsenal Patch (falcon7370)](/custom-patches/Triumvirate_-_Dawnguard_Arsenal_Patch.rar)
 
 **Load/Install Order Notes:**
 _None_

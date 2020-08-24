@@ -13,7 +13,7 @@
 * https://www.nexusmods.com/skyrimspecialedition/mods/14353 (Clockwork Patch
 
 **Custom Patches:**
-* [JOR - Keld-Nar / Trade & Barter Patch](custom-patches/JOR_KeldNar_TradeAndBarter_Patch.esp)
+* [JOR - Keld-Nar / Trade & Barter Patch](/custom-patches/JOR_KeldNar_TradeAndBarter_Patch.esp)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)

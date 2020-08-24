@@ -13,7 +13,7 @@
 _None_
 
 **Custom Patches:**
-* [JOR - Save The Icerunner / LS2 Merges Patch](custom-patches/JOR_SaveTheIcerunner_LS2Merges_Patch.esp)
+* [JOR - Save The Icerunner / LS2 Merges Patch](/custom-patches/JOR_SaveTheIcerunner_LS2Merges_Patch.esp)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
