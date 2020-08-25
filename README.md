@@ -73,11 +73,17 @@ For several patches and files, there is already a downloaded version with LS2, b
 
 [A Cat's Life](mod-details/ACatsLife.md)
 
+[Identity Crisis](mod-details/IdentityCrisis.md)
+
+[Swift Potion Reborn](mod-details/SwiftPotionReborn.md)
+
 ## Okay
 
 [Provincial Courier Service](mod-details/ProvincialCourierService.md)
 
 [Midwood Isle SE](mod-details/MidwoodIsle.md)
+
+[Animated Wings Ultimate](mod-details/AnimatedWingsUltimate.md)
 
 ## Unreviewed
 
