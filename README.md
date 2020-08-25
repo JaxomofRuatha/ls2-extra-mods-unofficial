@@ -124,7 +124,7 @@ For several patches and files, there is already a downloaded version with LS2, b
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
-  * Patch ESP can go anywhere after Men Of Winter.esp and male npc overahul se.esp
+  * Patch ESP should go after LS2 Patches Merged
   
 **Extra Notes**
 
