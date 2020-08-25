@@ -77,6 +77,8 @@ For several patches and files, there is already a downloaded version with LS2, b
 
 [Swift Potion Reborn](mod-details/SwiftPotionReborn.md)
 
+[Aetherium Armor and Weapons Compilation by Lautasantenni](mod-details/AetheriumArmorAndWeapons.md)
+
 ## Okay
 
 [Provincial Courier Service](mod-details/ProvincialCourierService.md)
