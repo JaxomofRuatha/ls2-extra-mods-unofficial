@@ -79,6 +79,12 @@ For several patches and files, there is already a downloaded version with LS2, b
 
 [Aetherium Armor and Weapons Compilation by Lautasantenni](mod-details/AetheriumArmorAndWeapons.md)
 
+[Helgen Reborn - NordWarUA Armor Replacer](mod-details/HelgenRebornArmorReplacer.md)
+
+[Jiub's Opus](mod-details/JiubsOpus.md)
+
+[[SunJeong] Ninirim Collection 6.0](mod-details/NinirimCollection.md)
+
 ## Okay
 
 [Provincial Courier Service](mod-details/ProvincialCourierService.md)
