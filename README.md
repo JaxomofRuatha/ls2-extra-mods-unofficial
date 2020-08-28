@@ -146,6 +146,14 @@ For several patches and files, there is already a downloaded version with LS2, b
 
 Included NPCs in this patch are Golldir, Erandur, Vorstag, Madanach, Benor, Marcurio, Belrand, and Stenvar. The Men of Winter records were forwarded as is, so if there's changes in new LS releases, that might not be quite the same if there's customized patching.
 
+## Clockwork patches for LOTD display temporary fix
+
+Currently the Clockwork LOTD display is broken, because the patches for it are above the actual Clockwork ESP. According to several testers, it works to move DBM_Clockwork_Patch.esp and LOTD_TCC_Clockwork.esp below Clockwork.esp.
+
+**Extra Notes**
+
+This doesn't work correctly (from my experience) mid-save, the display doesn't get added and the LOTD Checklist gets glitched out.
+
 <br><br>
 
 # Mods Under Review
