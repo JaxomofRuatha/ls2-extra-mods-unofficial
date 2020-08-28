@@ -41,6 +41,8 @@ For several patches and files, there is already a downloaded version with LS2, b
 
 [MAPS](mod-details/MAPS.md)
 
+[Dawnguard Map Markers](mod-details/DawnguardMapMarkers.md)
+
 ## Highly Recommend
 
 [JS Purses and Septims SE](mod-details/JSPursesAndSeptims.md)
