@@ -87,6 +87,8 @@ For several patches and files, there is already a downloaded version with LS2, b
 
 [[SunJeong] Ninirim Collection 6.0](mod-details/NinirimCollection.md)
 
+[Jesus In Skyrim](mod-details/JesusInSkyrim.md)
+
 ## Okay
 
 [Provincial Courier Service](mod-details/ProvincialCourierService.md)
