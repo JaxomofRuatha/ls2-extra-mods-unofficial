@@ -17,12 +17,13 @@ WARNING: Images in the links are NSFW!
 _None_
 
 **Custom Patches:**
-* WIP - Needs to be patched for Occlusion and possibly Music Mods Merged, is stable without this (only changes are EditorIDs and MusicType records)
+* [JOR - Ninirim Collection / Occlusion Patch](/custom-patches/JOR_Ninirim_Occlusion_Patch.esp) (this currently forwards Occlusion records, would need to redo if Occlusion changes)
 
 **Load/Install Order Notes:**
 * WinterdrakeX (LS2 version 2.2.1)
   * Install and move this mod upwards before the separator named "Items - Female Armors". It should only overwrite "unofficial performance optimized textures AKA (UPOT)". Let others overwrite it.
   * Put [Sunjeong] Ninirim Collection.esp a few mods before ELE_SSE.esp (apparently if you stick some mod right before ELE_SSE.esp it sometimes still overwrite ELE_SSE.esp).
+  * Add JOR_Ninirim_Occlusion_Patch.esp after Occlusion.esp
 
 **Extra Notes:**
 * Credits for the outfits go to Ninirim for the countless years of work he's done. Included more specific credits in an in-game poster inside the museum.
