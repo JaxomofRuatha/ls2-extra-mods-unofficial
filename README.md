@@ -12,6 +12,14 @@ ALSO note that you will **need to ESL flag plugins** from the standard LS list t
 
 ## Notes on how to use/contribute
 
+**Submitting new mods or personal experiences with listed mods**
+
+If there's a mod you've been able to get working with the base LS modlist, or if you want to add your experience/patch/review to a mod that's already here, you'll need to submit an [Issue](https://github.com/JaxomofRuatha/ls2-extra-mods-unofficial/issues/new/choose). Technically you're free to submit whatever you've tried adding, but here's what to keep in mind if you can please:
+
+1. Check for conflicts with other mods in MO2 (install order), and also in SSEEdit (load order). If there are conflicts, either note them or provide patches for them with a comment about what you patched.
+2. At least try and play LS with the mod installed and check that things are running stable, at least for a little bit. If there are quirks or noticeable interactions, mention that as well
+3. Potentially play through the mod or try its features, though this isn't necessary (just make note that it is "Unreviewed", as I have done). If you have played through, adding a short review in addition to the basic recommendation would be great!
+
 **Recommendation ratings**
 
 For the moment, I'm using the following rating system for any recommmendations:
@@ -37,83 +45,141 @@ For several patches and files, there is already a downloaded version with LS2, b
 
 ## Must-Add
 
-[Depths of Skyrim - An Underwater Overhaul SSE](mod-details/DepthsOfSkyrim.md)
+#### [Depths of Skyrim - An Underwater Overhaul SSE](mod-details/DepthsOfSkyrim.md)
 
-[MAPS](mod-details/MAPS.md)
+###### (:+1: @JaxomofRuatha)
 
-[Dawnguard Map Markers](mod-details/DawnguardMapMarkers.md)
+#### [MAPS](mod-details/MAPS.md)
+
+###### (:+1: @JaxomofRuatha)
+
+#### [Dawnguard Map Markers](mod-details/DawnguardMapMarkers.md)
+
+###### (:+1: @JaxomofRuatha)
 
 ## Highly Recommend
 
-[JS Purses and Septims SE](mod-details/JSPursesAndSeptims.md)
+#### [JS Purses and Septims SE](mod-details/JSPursesAndSeptims.md)
 
-[Pastel SkyUI Markers/Colorful Map Markers](mod-details/PastelMarkers.md)
+###### (:+1: @JaxomofRuatha)
 
-[Save the Icerunner - Lights Out Alternate Routes](mod-details/SaveTheIcerunner.md)
+#### [Pastel SkyUI Markers/Colorful Map Markers](mod-details/PastelMarkers.md)
 
-[Enigma Series SSE / Talkative Dragons](mod-details/EnigmaSeriesTalkativeDragons.md)
+###### (:+1: @JaxomofRuatha)
 
-[Keld-Nar](mod-details/KeldNar.md)
+#### [Save the Icerunner - Lights Out Alternate Routes](mod-details/SaveTheIcerunner.md)
 
-[Northern Marsh Bridges SE](mod-details/NorthernMarshBridges.md)
+###### (:+1: @JaxomofRuatha)
 
-[Strange Runes](mod-details/StrangeRunes.md)
+#### [Enigma Series SSE / Talkative Dragons](mod-details/EnigmaSeriesTalkativeDragons.md)
 
-[Bard Instrumentals Mostly / Alternative Bards Songs](mod-details/AlternativeBardSongs.md)
+###### (:+1: @JaxomofRuatha)
 
-[ENB Light](mod-details/ENBLight.md)
+#### [Keld-Nar](mod-details/KeldNar.md)
 
-[Dear Diary - Paper SkyUI Menus Replacer SE](mod-details/DearDiary.md)
+###### (:+1: @JaxomofRuatha)
 
-[Halted Stream Camp - Revisited](mod-details/HaltedStreamCampRevisited.md)
+#### [Northern Marsh Bridges SE](mod-details/NorthernMarshBridges.md)
 
-[Rudy HQ - More Lights for ENB SE](mod-details/RudyHQMoreLightsForENB.md)
+###### (:+1: @JaxomofRuatha)
 
-[Fluffy Snow](mod-details/FluffySnow.md)
+#### [Strange Runes](mod-details/StrangeRunes.md)
 
-[Music Mods Merged](mod-details/MusicModsMerged.md)
+###### (:+1: @JaxomofRuatha)
 
-[A Cat's Life](mod-details/ACatsLife.md)
+#### [Bard Instrumentals Mostly / Alternative Bards Songs](mod-details/AlternativeBardSongs.md)
 
-[Identity Crisis](mod-details/IdentityCrisis.md)
+###### (:+1: @JaxomofRuatha)
 
-[Swift Potion Reborn](mod-details/SwiftPotionReborn.md)
+#### [ENB Light](mod-details/ENBLight.md)
 
-[Aetherium Armor and Weapons Compilation by Lautasantenni](mod-details/AetheriumArmorAndWeapons.md)
+###### (:+1: @JaxomofRuatha)
 
-[Helgen Reborn - NordWarUA Armor Replacer](mod-details/HelgenRebornArmorReplacer.md)
+#### [Dear Diary - Paper SkyUI Menus Replacer SE](mod-details/DearDiary.md)
 
-[Jiub's Opus](mod-details/JiubsOpus.md)
+###### (:+1: @JaxomofRuatha)
 
-[[SunJeong] Ninirim Collection 6.0](mod-details/NinirimCollection.md)
+#### [Halted Stream Camp - Revisited](mod-details/HaltedStreamCampRevisited.md)
 
-[Jesus In Skyrim](mod-details/JesusInSkyrim.md)
+###### (:+1: @JaxomofRuatha)
+
+#### [Rudy HQ - More Lights for ENB SE](mod-details/RudyHQMoreLightsForENB.md)
+
+###### (:+1: @JaxomofRuatha)
+
+#### [Fluffy Snow](mod-details/FluffySnow.md)
+
+###### (:+1: @JaxomofRuatha)
+
+#### [Music Mods Merged](mod-details/MusicModsMerged.md)
+
+###### (:+1: @JaxomofRuatha)
+
+#### [A Cat's Life](mod-details/ACatsLife.md)
+
+###### (:+1: @Day7-J)
+
+#### [Identity Crisis](mod-details/IdentityCrisis.md)
+
+###### (:+1: @WinterdrakeX)
+
+#### [Swift Potion Reborn](mod-details/SwiftPotionReborn.md)
+
+###### (:+1: @WinterdrakeX)
+
+#### [Aetherium Armor and Weapons Compilation by Lautasantenni](mod-details/AetheriumArmorAndWeapons.md)
+
+###### (:+1: @WinterdrakeX)
+
+#### [Helgen Reborn - NordWarUA Armor Replacer](mod-details/HelgenRebornArmorReplacer.md)
+
+###### (:+1: @WinterdrakeX)
+
+#### [Jiub's Opus](mod-details/JiubsOpus.md)
+
+###### (:+1: @WinterdrakeX)
+
+#### [[SunJeong] Ninirim Collection 6.0](mod-details/NinirimCollection.md)
+
+###### (:+1: @WinterdrakeX)
+
+#### [Jesus In Skyrim](mod-details/JesusInSkyrim.md)
+
+###### (:+1: @WinterdrakeX)
 
 ## Okay
 
-[Provincial Courier Service](mod-details/ProvincialCourierService.md)
+#### [Provincial Courier Service](mod-details/ProvincialCourierService.md)
 
-[Midwood Isle SE](mod-details/MidwoodIsle.md)
+###### (:+1: @JaxomofRuatha)
 
-[Animated Wings Ultimate](mod-details/AnimatedWingsUltimate.md)
+#### [Midwood Isle SE](mod-details/MidwoodIsle.md)
+
+###### (:+1: @JaxomofRuatha)
+
+#### [Animated Wings Ultimate](mod-details/AnimatedWingsUltimate.md)
+
+###### (:+1: @WinterdrakeX)
 
 ## Unreviewed
 
-[The Tale of Tsatampra Xiros](mod-details/TsatampraXiros.md)
+#### [The Tale of Tsatampra Xiros](mod-details/TsatampraXiros.md)
 
-[Voyage to the Dreamborne Isles SE](mod-details/DreamborneIsles.md)
+#### [Voyage to the Dreamborne Isles SE](mod-details/DreamborneIsles.md)
 
-[Away Come Away](mod-details/AwayComeAway.md)
+#### [Away Come Away](mod-details/AwayComeAway.md)
 
-[Maelstrom - Fully Voiced Follower and Quest Mod SSE](mod-details/Maelstrom.md)
+#### [Maelstrom - Fully Voiced Follower and Quest Mod SSE](mod-details/Maelstrom.md)
 
-[Triumvirate - Mage Archetypes](mod-details/Triumvirate.md)
+#### [Triumvirate - Mage Archetypes](mod-details/Triumvirate.md)
+
+###### (:+1: falcon7370)
 
 ## Deprecated or Needs Update/Patch
 
-[Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)](mod-details/ChapterII.md)
+#### [Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)](mod-details/ChapterII.md)
 
-[The Northerner Diaries in Skyrim](mod-details/NorthernerDiaries.md)
+#### [The Northerner Diaries in Skyrim](mod-details/NorthernerDiaries.md)
 
 <br><br>
 
@@ -174,6 +240,6 @@ These are mods that are known through reputation, interest, or prior attempts to
 
 <br>
 
-[M'Rissi's Tails of Troubles SE](mod-details/MrissisTailsOfTroubles.md)
+#### [M'Rissi's Tails of Troubles SE](mod-details/MrissisTailsOfTroubles.md)
 
-[Cheesemod for EVERYONE](mod-details/CheesemodForEveryone.md)
+#### [Cheesemod for EVERYONE](mod-details/CheesemodForEveryone.md)
