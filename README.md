@@ -37,141 +37,141 @@ For several patches and files, there is already a downloaded version with LS2, b
 
 ## Must-Add
 
-[Depths of Skyrim - An Underwater Overhaul SSE](mod-details/DepthsOfSkyrim.md)
+#### [Depths of Skyrim - An Underwater Overhaul SSE](mod-details/DepthsOfSkyrim.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[MAPS](mod-details/MAPS.md)
+#### [MAPS](mod-details/MAPS.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Dawnguard Map Markers](mod-details/DawnguardMapMarkers.md)
+#### [Dawnguard Map Markers](mod-details/DawnguardMapMarkers.md)
 
 (:+1: @JaxomofRuatha)
 
 ## Highly Recommend
 
-[JS Purses and Septims SE](mod-details/JSPursesAndSeptims.md)
+#### [JS Purses and Septims SE](mod-details/JSPursesAndSeptims.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Pastel SkyUI Markers/Colorful Map Markers](mod-details/PastelMarkers.md)
+#### [Pastel SkyUI Markers/Colorful Map Markers](mod-details/PastelMarkers.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Save the Icerunner - Lights Out Alternate Routes](mod-details/SaveTheIcerunner.md)
+#### [Save the Icerunner - Lights Out Alternate Routes](mod-details/SaveTheIcerunner.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Enigma Series SSE / Talkative Dragons](mod-details/EnigmaSeriesTalkativeDragons.md)
+#### [Enigma Series SSE / Talkative Dragons](mod-details/EnigmaSeriesTalkativeDragons.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Keld-Nar](mod-details/KeldNar.md)
+#### [Keld-Nar](mod-details/KeldNar.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Northern Marsh Bridges SE](mod-details/NorthernMarshBridges.md)
+#### [Northern Marsh Bridges SE](mod-details/NorthernMarshBridges.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Strange Runes](mod-details/StrangeRunes.md)
+#### [Strange Runes](mod-details/StrangeRunes.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Bard Instrumentals Mostly / Alternative Bards Songs](mod-details/AlternativeBardSongs.md)
+#### [Bard Instrumentals Mostly / Alternative Bards Songs](mod-details/AlternativeBardSongs.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[ENB Light](mod-details/ENBLight.md)
+#### [ENB Light](mod-details/ENBLight.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Dear Diary - Paper SkyUI Menus Replacer SE](mod-details/DearDiary.md)
+#### [Dear Diary - Paper SkyUI Menus Replacer SE](mod-details/DearDiary.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Halted Stream Camp - Revisited](mod-details/HaltedStreamCampRevisited.md)
+#### [Halted Stream Camp - Revisited](mod-details/HaltedStreamCampRevisited.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Rudy HQ - More Lights for ENB SE](mod-details/RudyHQMoreLightsForENB.md)
+#### [Rudy HQ - More Lights for ENB SE](mod-details/RudyHQMoreLightsForENB.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Fluffy Snow](mod-details/FluffySnow.md)
+#### [Fluffy Snow](mod-details/FluffySnow.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Music Mods Merged](mod-details/MusicModsMerged.md)
+#### [Music Mods Merged](mod-details/MusicModsMerged.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[A Cat's Life](mod-details/ACatsLife.md)
+#### [A Cat's Life](mod-details/ACatsLife.md)
 
-(:+1: @Day7-J)
+###### (:+1: @Day7-J)
 
-[Identity Crisis](mod-details/IdentityCrisis.md)
+#### [Identity Crisis](mod-details/IdentityCrisis.md)
 
-(:+1: @WinterdrakeX)
+###### (:+1: @WinterdrakeX)
 
-[Swift Potion Reborn](mod-details/SwiftPotionReborn.md)
+#### [Swift Potion Reborn](mod-details/SwiftPotionReborn.md)
 
-(:+1: @WinterdrakeX)
+###### (:+1: @WinterdrakeX)
 
-[Aetherium Armor and Weapons Compilation by Lautasantenni](mod-details/AetheriumArmorAndWeapons.md)
+#### [Aetherium Armor and Weapons Compilation by Lautasantenni](mod-details/AetheriumArmorAndWeapons.md)
 
-(:+1: @WinterdrakeX)
+###### (:+1: @WinterdrakeX)
 
-[Helgen Reborn - NordWarUA Armor Replacer](mod-details/HelgenRebornArmorReplacer.md)
+#### [Helgen Reborn - NordWarUA Armor Replacer](mod-details/HelgenRebornArmorReplacer.md)
 
-(:+1: @WinterdrakeX)
+###### (:+1: @WinterdrakeX)
 
-[Jiub's Opus](mod-details/JiubsOpus.md)
+#### [Jiub's Opus](mod-details/JiubsOpus.md)
 
-(:+1: @WinterdrakeX)
+###### (:+1: @WinterdrakeX)
 
-[[SunJeong] Ninirim Collection 6.0](mod-details/NinirimCollection.md)
+#### [[SunJeong] Ninirim Collection 6.0](mod-details/NinirimCollection.md)
 
-(:+1: @WinterdrakeX)
+###### (:+1: @WinterdrakeX)
 
-[Jesus In Skyrim](mod-details/JesusInSkyrim.md)
+#### [Jesus In Skyrim](mod-details/JesusInSkyrim.md)
 
-(:+1: @WinterdrakeX)
+###### (:+1: @WinterdrakeX)
 
 ## Okay
 
-[Provincial Courier Service](mod-details/ProvincialCourierService.md)
+#### [Provincial Courier Service](mod-details/ProvincialCourierService.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Midwood Isle SE](mod-details/MidwoodIsle.md)
+#### [Midwood Isle SE](mod-details/MidwoodIsle.md)
 
-(:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha)
 
-[Animated Wings Ultimate](mod-details/AnimatedWingsUltimate.md)
+#### [Animated Wings Ultimate](mod-details/AnimatedWingsUltimate.md)
 
-(:+1: @WinterdrakeX)
+###### (:+1: @WinterdrakeX)
 
 ## Unreviewed
 
-[The Tale of Tsatampra Xiros](mod-details/TsatampraXiros.md)
+#### [The Tale of Tsatampra Xiros](mod-details/TsatampraXiros.md)
 
-[Voyage to the Dreamborne Isles SE](mod-details/DreamborneIsles.md)
+#### [Voyage to the Dreamborne Isles SE](mod-details/DreamborneIsles.md)
 
-[Away Come Away](mod-details/AwayComeAway.md)
+#### [Away Come Away](mod-details/AwayComeAway.md)
 
-[Maelstrom - Fully Voiced Follower and Quest Mod SSE](mod-details/Maelstrom.md)
+#### [Maelstrom - Fully Voiced Follower and Quest Mod SSE](mod-details/Maelstrom.md)
 
-[Triumvirate - Mage Archetypes](mod-details/Triumvirate.md)
+#### [Triumvirate - Mage Archetypes](mod-details/Triumvirate.md)
 
 (:+1: falcon7370)
 
 ## Deprecated or Needs Update/Patch
 
-[Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)](mod-details/ChapterII.md)
+#### [Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)](mod-details/ChapterII.md)
 
-[The Northerner Diaries in Skyrim](mod-details/NorthernerDiaries.md)
+#### [The Northerner Diaries in Skyrim](mod-details/NorthernerDiaries.md)
 
 <br><br>
 
@@ -232,6 +232,6 @@ These are mods that are known through reputation, interest, or prior attempts to
 
 <br>
 
-[M'Rissi's Tails of Troubles SE](mod-details/MrissisTailsOfTroubles.md)
+#### [M'Rissi's Tails of Troubles SE](mod-details/MrissisTailsOfTroubles.md)
 
-[Cheesemod for EVERYONE](mod-details/CheesemodForEveryone.md)
+#### [Cheesemod for EVERYONE](mod-details/CheesemodForEveryone.md)
