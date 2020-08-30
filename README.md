@@ -156,6 +156,16 @@ Currently the Clockwork LOTD display is broken, because the patches for it are a
 
 This doesn't work correctly (from my experience) mid-save, the display doesn't get added and the LOTD Checklist gets glitched out.
 
+## Fix for human Serana eyes
+
+Currently Serana's eyes once cured are linking to missing textures, this just links it to the one existing in the filepath.
+
+**Link:** [Patch by JaxomofRuatha](custom-patches/JOR_SeranaEyesFix.esp)
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Patch ESP should go after LS2 Patches Merged
+
 <br><br>
 
 # Mods Under Review
