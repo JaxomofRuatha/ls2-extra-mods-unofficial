@@ -165,7 +165,7 @@ For several patches and files, there is already a downloaded version with LS2, b
 
 #### [Triumvirate - Mage Archetypes](mod-details/Triumvirate.md)
 
-(:+1: falcon7370)
+###### (:+1: falcon7370)
 
 ## Deprecated or Needs Update/Patch
 
