@@ -12,6 +12,14 @@ ALSO note that you will **need to ESL flag plugins** from the standard LS list t
 
 ## Notes on how to use/contribute
 
+**Submitting new mods or personal experiences with listed mods**
+
+If there's a mod you've been able to get working with the base LS modlist, or if you want to add your experience/patch/review to a mod that's already here, you'll need to submit an [Issue](https://github.com/JaxomofRuatha/ls2-extra-mods-unofficial/issues/new/choose). Technically you're free to submit whatever you've tried adding, but here's what to keep in mind if you can please:
+
+1. Check for conflicts with other mods in MO2 (install order), and also in SSEEdit (load order). If there are conflicts, either note them or provide patches for them with a comment about what you patched.
+2. At least try and play LS with the mod installed and check that things are running stable, at least for a little bit. If there are quirks or noticeable interactions, mention that as well
+3. Potentially play through the mod or try its features, though this isn't necessary (just make note that it is "Unreviewed", as I have done). If you have played through, adding a short review in addition to the basic recommendation would be great!
+
 **Recommendation ratings**
 
 For the moment, I'm using the following rating system for any recommmendations:
