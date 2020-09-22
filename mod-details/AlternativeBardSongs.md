@@ -19,5 +19,5 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.2.1)
+* JaxomofRuatha (LS2 version 2.2.1, 2.4.0)
   * Alternative songs mods should go after "Lucidity Sound FX SSE"

@@ -16,5 +16,7 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.4.0)
+  * HaltedStreamCampRevisited.esp is currently before NoGrassINCaves.esp
 * JaxomofRuatha (LS2 version 2.2.1)
   * HaltedStreamCampRevisited.esp is currently before moonpath.esp

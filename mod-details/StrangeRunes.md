@@ -16,5 +16,5 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.2.1)
+* JaxomofRuatha (LS2 version 2.2.1, 2.4.0)
   * StrangeRunes.esp seems to work fine wherever, I currently have it after Occlusion.esp
