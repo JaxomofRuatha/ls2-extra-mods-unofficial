@@ -13,8 +13,12 @@ _None_
 _None_
 
 **Custom Patches:**
-* [JOR - Maelstrom / LS2 Patch](/custom-patches/JOR_Maelstrom_LS2_Patch.esp)
+* [JOR - Maelstrom / Occlusion Patch (2.4.0)](/custom-patches/2.4.0/JOR_Maelstrom_Occlusion_LS2.4.0_Patch.esp)
+* [JOR - Maelstrom / LS2 Patch (2.2.l)](/custom-patches/2.2.1/JOR_Maelstrom_LS2_Patch.esp)
 
 **Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.4.0)
+  * Maelstrom.esp goes before ELE_SSE.esp
+  * JOR_Maelstrom_Occlusion_LS2.4.0_Patch.esp goes after Occlusion.esp
 * JaxomofRuatha (LS2 version 2.2.1)
   * JOR_Maelstrom_LS2 Patch goes after Occlusion.esp (currently forwards Occlusion records, would need to redo if Occlusion changes)

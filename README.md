@@ -104,6 +104,10 @@ _None at the moment that haven't been added to LS_
 
 ###### (:+1: @JaxomofRuatha)
 
+#### [Barenziah's Glowing SE](mod-details/BarenziahsGlowing.md)
+
+###### (:+1: @JaxomofRuatha)
+
 #### [A Cat's Life](mod-details/ACatsLife.md)
 
 ###### (:+1: @Day7-J)
@@ -132,6 +136,10 @@ _None at the moment that haven't been added to LS_
 
 ###### (:+1: @WinterdrakeX)
 
+#### [NPC Dialogue Audio Enhancer](mod-details/NPCDialogueEnhancer.md)
+
+###### (:+1: @JaxomofRuatha)
+
 ## Okay
 
 #### [Provincial Courier Service](mod-details/ProvincialCourierService.md)
@@ -146,6 +154,10 @@ _None at the moment that haven't been added to LS_
 
 ###### (:+1: @WinterdrakeX)
 
+#### [RUSTIC CHILDREN](mod-details/RusticChildren.md)
+
+###### (:+1: @JaxomofRuatha)
+
 ## Unreviewed
 
 #### [The Tale of Tsatampra Xiros](mod-details/TsatampraXiros.md)
@@ -156,15 +168,47 @@ _None at the moment that haven't been added to LS_
 
 #### [Maelstrom - Fully Voiced Follower and Quest Mod SSE](mod-details/Maelstrom.md)
 
+#### [Mealtime - A Food and Recipe Mod](mod-details/Mealtime.md)
+
+#### [Fossil Mining - With Legacy Support](mod-details/FossilMining.md)
+
+#### [Amulets of Skyrim](mod-details/AmuletsOfSkyrim.md)
+
+#### [Artifacts of Skyrim](mod-details/ArtifactsOfSkyrim.md)
+
+#### [Legacy of the Dragonborn BadGremlins Collection](mod-details/BadGremlinsCollection.md)
+
+#### [Artifacts - The Ice Blade of the Monarch](mod-details/IceBladeOfTheMonarch.md)
+
+#### [JaySuS Swords SE](mod-details/JaysusSwords.md)
+
+#### [Kthonia's Unique Weapon Pack - Dragonborn Weapons](mod-details/KthoniasUniqueWeapons.md)
+
+#### [New Treasure Hunt SSE](mod-details/NewTreasureHunt.md)
+
+#### [Oblivion Artifact Pack SE](mod-details/OblivionArtifacts.md)
+
+#### [Ruin's Edge](mod-details/RuinsEdge.md)
+
+#### [The Tools of Kagrenac](mod-details/ToolsOfKagrenac.md)
+
+#### [Volkihar Knight - Legacy of the Dragonborn Patch](mod-details/VolkiharKnightLOTD.md)
+
+#### [The Wheels of Lull](mod-details/WheelsOfLull.md)
+
+#### [Beyond Reach](mod-details/BeyondReach.md)
+
+#### [Beyond Skyrim - Bruma SE](mod-details/BSBruma.md)
+
+#### [Beyond Skyrim - Wares of Tamriel SE](mod-details/BSWaresOfTamriel.md)
+
+#### [Final Cataclysm - 2020](mod-details/FinalCataclysm2020.md)
+
+#### [M'Rissi's Tails of Troubles SE](mod-details/MrissisTailsOfTroubles.md)
+
+#### [Sepolcri - A Complete Burial Sites Overhaul](mod-details/Sepolcri.md)
+
 #### [Triumvirate - Mage Archetypes](mod-details/Triumvirate.md)
-
-###### (:+1: falcon7370)
-
-## Deprecated or Needs Update/Patch
-
-#### [Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)](mod-details/ChapterII.md)
-
-#### [The Northerner Diaries in Skyrim](mod-details/NorthernerDiaries.md)
 
 ## Added to LS
 
@@ -192,6 +236,12 @@ _None at the moment that haven't been added to LS_
 
 ###### (:+1: @WinterdrakeX)
 
+## Deprecated or Needs Update/Patch
+
+#### [Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)](mod-details/ChapterII.md)
+
+#### [The Northerner Diaries in Skyrim](mod-details/NorthernerDiaries.md)
+
 <br><br>
 
 # Miscellaneous Patches and Tweaks
@@ -212,12 +262,19 @@ _None at the moment that haven't been added to LS_
 * TwistedModding
   * Place this patch after the mod: Compatibility Patch for Archery Gameplay Overhaul (AGO) and XP32 Skeleton Styles MCM
 
+## Fix for 2.4.0 Bleak Falls Barrow Revisited conflict
+
+**Load/Install Order Notes:**
+* ForgottenGlory
+  * Move `BleakFallsBarrowRevisited.esp` to immediately after `Miscellaneous Patches Merged.esp` and before `BFBR_ELE_Patch.esp`
+
 ## Use "No Camp" option for Hedge Mage Armor to prevent crashes/conflicts
 
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/5269 (Hedge Mage Armor - No Camp)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.4.0)
+  * Hedge Mage Armor - No Camp.esp should be opened in Creation Kit and re-saved as a Form 44 plugin (just open it as the active mod, then save)
   * Hedge Mage Armor.esp should be disabled, and replaced with Hedge Mage Armor - No Camp.esp (currently placed immediately before moonpath.esp in load order)
 
 ## Update NPC AI Process Position Fix - SSE
@@ -225,10 +282,20 @@ _None at the moment that haven't been added to LS_
 This mod was updated after the LS 2.4.0 release, just install the main file and replace
 
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/40261
+
+## Fix for human Serana eyes (included in LS 2.4.0)
+
+Currently Serana's eyes once cured are linking to missing textures, this just links it to the one existing in the filepath.
+
+**Link:** [Patch by JaxomofRuatha](custom-patches/JOR_SeranaEyesFix.esp)
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.2.1)
+  * Patch ESP should go after LS2 Patches Merged
   
 ## Fix for 2.2.1 Black Face Bugs
 
-**Link:** [Patch by JaxomofRuatha](custom-patches/LS2%20BFB%20Fixes%20Patch.esp)
+**Link:** [Patch by JaxomofRuatha](custom-patches/2.2.1/LS2%20BFB%20Fixes%20Patch.esp)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
@@ -244,17 +311,7 @@ Currently the Clockwork LOTD display is broken, because the patches for it are a
 
 **Extra Notes**
 
-This doesn't work correctly (from my experience) mid-save, the display doesn't get added and the LOTD Checklist gets glitched out.
-
-## Fix for human Serana eyes (included in LS 2.4.0)
-
-Currently Serana's eyes once cured are linking to missing textures, this just links it to the one existing in the filepath.
-
-**Link:** [Patch by JaxomofRuatha](custom-patches/JOR_SeranaEyesFix.esp)
-
-**Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.2.1)
-  * Patch ESP should go after LS2 Patches Merged
+This doesn't work correctly (from my experience) if done mid-save, the display doesn't get added and the LOTD Checklist gets glitched out. You may be able to rebuild the MCM and have it work.
 
 <br><br>
 
@@ -263,7 +320,5 @@ Currently Serana's eyes once cured are linking to missing textures, this just li
 These are mods that are known through reputation, interest, or prior attempts to integrate, and either haven't been correctly integrated/patched for LS2 yet or haven't had an attempt to add them
 
 <br>
-
-#### [M'Rissi's Tails of Troubles SE](mod-details/MrissisTailsOfTroubles.md)
 
 #### [Cheesemod for EVERYONE](mod-details/CheesemodForEveryone.md)

@@ -13,7 +13,7 @@
 * https://www.nexusmods.com/skyrimspecialedition/mods/9005 (Arthmoor's town add-ons, reinstall from LS2 with only "Provincial Courier" selected)
 
 **Custom Patches:**
-* [JOR - Provincial Courier Service / Male NPC Overhaul Patch](/custom-patches/JOR_ProvincialCourierService_MaleNPCOverhaul_Patch.esp)
+* [JOR - Provincial Courier Service / Male NPC Overhaul Patch](/custom-patches/2.2.1/JOR_ProvincialCourierService_MaleNPCOverhaul_Patch.esp)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)

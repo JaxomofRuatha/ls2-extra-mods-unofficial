@@ -17,7 +17,7 @@ WARNING: Images in the links are NSFW!
 _None_
 
 **Custom Patches:**
-* [JOR - Ninirim Collection / Occlusion Patch](/custom-patches/JOR_Ninirim_Occlusion_Patch.esp) (this currently forwards Occlusion records, would need to redo if Occlusion changes)
+* [JOR - Ninirim Collection / Occlusion Patch](/custom-patches/2.2.1/JOR_Ninirim_Occlusion_Patch.esp) (this currently forwards Occlusion records, would need to redo if Occlusion changes)
 
 **Load/Install Order Notes:**
 * WinterdrakeX (LS2 version 2.2.1)

@@ -16,9 +16,22 @@
 
 **Custom Patches:**
 * [JOR - Midwood Isle SE / USSEP Patch](/custom-patches/JOR_MidwoodIsle_USSEP_Patch.esp)
+* [JOR - Midwood Isle Alternate Ship Location 2 / Legacy of the Dragonborn Patch](/custom-patches/JOR_MidwoodIsleAltShip2_LegacyOfTheDragonborn_Patch.esp)
+
+**CLEANING REQUIRED:**
+* Midwood Isle.esp
 
 **Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.4.0)
+  * Install Midwood Isle SE before all of: Beyond Reach, Beyond Skyrim - Bruma SE, and Darkend
+  * Midwood Isle.esp should be loaded before arnima.esm, all BS Bruma plugins, and LegacyoftheDragonborn.esm
+  * MI Alt Ship Loc 2.esp should be loaded as high as possible, I currently have it immediately after Campfire.esm
+  * Dangerous NPCs MI Patch.esp and MILightsControl.esp are likely okay anywhere, currently after Occlusion.esp
 * JaxomofRuatha (LS2 version 2.2.1)
   * Currently Midwood Isle.esp and MI Alt Ship Loc 2.esp are before SkyUI_SE.esp
   * DBM_MidwoodIsle_Patch.esp is before ai overhaul patch.esp
   * Dangerous NPCs MI Patch.esp and MILightsControl.esp are likely okay anywhere, currently after Occlusion.esp
+
+**Extra Notes:**
+
+I would also recommend running Cathedral Assets Optimizer on this mod, unsure if it helps to a large degree but it did process a lot of assets successfully (and in-game previously I had significant framerate drops with the custom textures/meshes)

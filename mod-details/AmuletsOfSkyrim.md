@@ -1,0 +1,22 @@
+## Amulets of Skyrim SSE
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/487
+
+**Summary:** This mod adds a lot of amulets (and a few rings) to Skyrim and gives these amulets to some named NPCs. 
+
+**LS2 Compatibility Status:** Good (no known issues after patching)
+
+**Recommendations:** 
+_None_
+
+**Official Patches:**
+* [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
+* [The Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529)
+
+**Custom Patches:**
+* [JOR - Amulets Of Skyrim / LS2 Bash Patch](/custom-patches/2.4.0/JOR_AmuletsOfSkyrim_LS2Bash_Patch.esp)
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.4.0)
+  * Fossilsyum.esp before Audio Overhaul Skyrim.esp
+  * DBM_AmuletsOfSkyrim_Patch.esp and LOTD_TCC_Amulets.esp in that order, currently before ELE_SSE.esp (NOTE: I reinstalled the Legacy of the Dragonborn Official Patches and Legacy of the Dragonborn SSE - The Curators Companion with different names and no other patches enabled to get these)
