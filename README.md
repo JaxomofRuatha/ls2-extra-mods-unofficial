@@ -62,6 +62,8 @@ If it doesn't say "dirty" at the bottom of the messages window, that means it di
 
 #### [3D Snowberries](mod-details/3DSnowberries.md)
 
+###### (:+1: @JaxomofRuatha)
+
 ## Highly Recommend
 
 #### [Pastel SkyUI Markers/Colorful Map Markers](mod-details/PastelMarkers.md)
