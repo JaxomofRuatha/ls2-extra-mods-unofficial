@@ -8,7 +8,7 @@ I made this to collaborate on ideas, but it is entirely unofficial. You've been 
 
 ALSO note that you will **need to ESL flag plugins** from the standard LS list to get any of these to work. The easy guide on how to do that is [here](https://tes5edit.github.io/docs/8-managing-mod-files.html#ESLifyingPluginstheeasyway).
 
-IMPORTANT: You will NOT be able to add EVERY SINGLE MOD HERE. The non-ESL limit for plugins is still 254, so you might have to choose some to get rid of if you want to include others.
+IMPORTANT: You will NOT be able to add EVERY SINGLE MOD HERE. The non-ESL limit for plugins is still 254, so you might have to choose some to get rid of if you want to include others. Depending on what you remove, you'll also have to patch accordingly (I try to treat LS as "one mod" for patching, so usually fine, but make sure to check in SSEEdit)
 
 <br>
 
@@ -17,6 +17,12 @@ IMPORTANT: You will NOT be able to add EVERY SINGLE MOD HERE. The non-ESL limit 
 Adding this since I realize not everyone knows how to use Git and it's maybe not clear when things need to be redone.
 
 [CHANGELOG](CHANGELOG.md)
+
+## Example Install/Load Order Files
+
+I'm adding these in here from time to time to give a top-level overview of what running install/load orders look like.
+
+[Install/Load Order Examples](/example-orders/OrdersIndex.md)
 
 ## Notes on how to use/contribute
 

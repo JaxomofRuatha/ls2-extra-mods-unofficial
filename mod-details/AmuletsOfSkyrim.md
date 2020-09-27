@@ -15,7 +15,7 @@ _None_
 * https://www.nexusmods.com/skyrimspecialedition/mods/31814 (Amulets of Skyrim - Tweaks and Fixes (Legacy of the Dragonborn Compatible Version))
 
 **Custom Patches:**
-* [JOR - Amulets Of Skyrim / LS2 Bash Patch](/custom-patches/2.4.0/JOR_AmuletsOfSkyrim_LS2Bash_Patch.esp)
+* [JOR - Amulets Of Skyrim / LS2 Bash Patch (2.4.0)](/custom-patches/2.4.0/JOR_AmuletsOfSkyrim_LS2Bash_Patch.esp)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.4.0)

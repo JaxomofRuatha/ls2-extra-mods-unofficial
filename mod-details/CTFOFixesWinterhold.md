@@ -13,10 +13,11 @@ _None_
 _None_
 
 **Custom Patches:**
-_None_
+* [JOR - CTFO Fixes / LS2 Merged Patch (2.4.0)](/custom-patches/2.4.0/JOR_CFTOFixes_LS2Merged_Patch.esp)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.4.0)
   * Install this mod anywhere after the original `Carriage and Ferry Travel Overhaul (Formerly Complete Fast Travel Overhaul)` mod
   * FOMOD: Choose the `Vanilla` option for the main mod, and `ESL-Flagged` versions for the Covered Carriages and Lanterns addons
   * `CFTO.esp`, `CFTO-CoveredCarriages.esp`, and `CFTO-Lanterns.esp` go in that order right after `zMirai.esp`
+  * `JOR_CFTOFixes_LS2Merged_Patch.esp` should load after `zPatch.esp`
