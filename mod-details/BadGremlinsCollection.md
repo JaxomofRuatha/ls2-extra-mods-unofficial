@@ -12,6 +12,7 @@ _None_
 **Official Patches:**
 * [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
 * [The Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529)
+* [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514)
 
 **Custom Patches:**
 _None_

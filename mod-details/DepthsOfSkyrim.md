@@ -13,7 +13,7 @@
 * [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
 
 **Custom Patches:**
-* [JOR - Depths of Skyrim / Kynes Grass Patch](/custom-patches/JOR_DepthsOfSkyrim_KynesGrass_Patch.esp)
+* [JOR - Depths of Skyrim / Kynes Grass Patch](/custom-patches/2.2.1/JOR_DepthsOfSkyrim_KynesGrass_Patch.esp)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)

@@ -6,9 +6,17 @@ This is a completely unofficial listing of mods that I and others from the Livin
 
 I made this to collaborate on ideas, but it is entirely unofficial. You've been warned!
 
-ALSO note that you will **need to ESL flag plugins** from the standard LS list to get any of these to work. The easy guide on how to do that is [here](https://tes5edit.github.io/docs/8-managing-mod-files.html#ESLifyingPluginstheeasyway)
+ALSO note that you will **need to ESL flag plugins** from the standard LS list to get any of these to work. The easy guide on how to do that is [here](https://tes5edit.github.io/docs/8-managing-mod-files.html#ESLifyingPluginstheeasyway).
+
+IMPORTANT: You will NOT be able to add EVERY SINGLE MOD HERE. The non-ESL limit for plugins is still 254, so you might have to choose some to get rid of if you want to include others.
 
 <br>
+
+## Changelog
+
+Adding this since I realize not everyone knows how to use Git and it's maybe not clear when things need to be redone.
+
+CHANGELOG.md
 
 ## Notes on how to use/contribute
 
@@ -52,7 +60,7 @@ If it doesn't say "dirty" at the bottom of the messages window, that means it di
 
 ## Must-Add
 
-_None at the moment that haven't been added to LS_
+#### [3D Snowberries](mod-details/3DSnowberries.md)
 
 ## Highly Recommend
 
@@ -210,6 +218,12 @@ _None at the moment that haven't been added to LS_
 
 #### [Triumvirate - Mage Archetypes](mod-details/Triumvirate.md)
 
+#### [Carriage and Ferry Travel Overhaul - Fixes and Winterhold](/mod-details/CTFOFixesWinterhold.md)
+
+#### [Legacy Safehouse Plus](mod-details/LegacySafehousePlus.md)
+
+#### [Legacy of the Dragonborn - Followers Patch](mod-details/LOTDFollowers.md)
+
 ## Added to LS
 
 #### [MAPS (added LS 2.3.0)](mod-details/MAPS.md)
@@ -262,11 +276,11 @@ _None at the moment that haven't been added to LS_
 * TwistedModding
   * Place this patch after the mod: Compatibility Patch for Archery Gameplay Overhaul (AGO) and XP32 Skeleton Styles MCM
 
-## Fix for 2.4.0 Bleak Falls Barrow Revisited conflict
+## Fix for 2.4.0 Revisited mods conflict
 
 **Load/Install Order Notes:**
 * ForgottenGlory
-  * Move `BleakFallsBarrowRevisited.esp` to immediately after `Miscellaneous Patches Merged.esp` and before `BFBR_ELE_Patch.esp`
+  * Move `BleakFallsBarrowRevisited.esp` and `UstengravRevisited` to immediately after `Miscellaneous Patches Merged.esp` and before `BFBR_ELE_Patch.esp`
 
 ## Use "No Camp" option for Hedge Mage Armor to prevent crashes/conflicts
 

@@ -13,6 +13,7 @@ _None_
 * https://www.nexusmods.com/skyrimspecialedition/mods/14168 (Aetherium Armor and Weapons Compilation Compatibility Patch SSE (Light Plugin))
 * [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
 * [The Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529)
+* [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514)
 
 **Custom Patches:**
 * [JOR - Tools Of Kagrenac / Forgotten City Patch](/custom-patches/JOR_ToolsOfKagrenac_ForgottenCity_Patch.esp)
