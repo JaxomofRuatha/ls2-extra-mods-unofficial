@@ -16,7 +16,7 @@ IMPORTANT: You will NOT be able to add EVERY SINGLE MOD HERE. The non-ESL limit 
 
 Adding this since I realize not everyone knows how to use Git and it's maybe not clear when things need to be redone.
 
-CHANGELOG.md
+[CHANGELOG](CHANGELOG.md)
 
 ## Notes on how to use/contribute
 
