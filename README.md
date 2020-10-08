@@ -60,15 +60,24 @@ Unless a mod author SPECIFICALLY says otherwise (and even then in some cases, es
 
 If it doesn't say "dirty" at the bottom of the messages window, that means it didn't find anything that required cleaning. If it DOES say "dirty", it means that the cleaning is required for better stability (so note this if attempting to recommend the mod). Sometimes it will also say "reqManualFix", which normally means that there is some known issue, and often the mod page/posts will recommend how to proceed.
 
+**Dummy plugins**
+
+In some cases, there will need to be a dummy plugin that only contains basic information and the expected plugin name for a dependent mod to use as a master. There seems to be two ways of creating such a mod, unsure whether there is any functional difference between them as long as the name of the plugin is correct:
+
+1. (I'm using this method currently) Make a copy of the actual plugin you are trying to make a dummy of (usually hidden due to being part of a merge), open it in SSEEdit, and remove all records from it besides the File Header before saving it.
+2. Create a new masterless plugin in the Creation Kit with nothing selected for data or masters
+
+**Other Random Notes**
+
+* In most cases where you're not attempting to create a merge patch it likely is fine to leave BSAs as-is, but I make a habit of unpacking every single one that I can, mainly to see what conflicts there are from installs since it doesn't seem to make any kind of performance difference (other than possibly at load)
+
 <br><br>
 
 # Added Mods
 
 ## Must-Add
 
-#### [3D Snowberries](mod-details/3DSnowberries.md)
-
-###### (:+1: @JaxomofRuatha)
+_None currently that have not been added to LS_
 
 ## Highly Recommend
 
@@ -220,6 +229,8 @@ If it doesn't say "dirty" at the bottom of the messages window, that means it di
 
 #### [Final Cataclysm - 2020](mod-details/FinalCataclysm2020.md)
 
+#### [Windstad Exterior Additions](mod-details/WindstadExteriorAdditions.md)
+
 #### [M'Rissi's Tails of Troubles SE](mod-details/MrissisTailsOfTroubles.md)
 
 #### [Sepolcri - A Complete Burial Sites Overhaul](mod-details/Sepolcri.md)
@@ -231,6 +242,10 @@ If it doesn't say "dirty" at the bottom of the messages window, that means it di
 #### [Legacy Safehouse Plus](mod-details/LegacySafehousePlus.md)
 
 #### [Legacy of the Dragonborn - Followers Patch](mod-details/LOTDFollowers.md)
+
+#### [Legacy of the Dragonborn - The Brotherhood of Old Patch](mod-details/BrotherhoodOfOldLOTD.md)
+
+#### [Unlimited Fast Travel](mod-details/UnlimitedFastTravel.md)
 
 ## Added to LS
 
@@ -258,6 +273,10 @@ If it doesn't say "dirty" at the bottom of the messages window, that means it di
 
 ###### (:+1: @WinterdrakeX)
 
+#### [3D Snowberries (added LS 2.5.0)](mod-details/3DSnowberries.md)
+
+###### (:+1: @JaxomofRuatha)
+
 ## Deprecated or Needs Update/Patch
 
 #### [Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)](mod-details/ChapterII.md)
@@ -278,6 +297,8 @@ If it doesn't say "dirty" at the bottom of the messages window, that means it di
 
 ## Fix for Archery Gameplay Overhaul and Pretty Combat Animations issue
 
+Note: This may not work well in more recent LS versions, was originally for 2.0.2
+
 **Link:** [Patch by TwistedModding](custom-patches/ago_pca_patch.rar)
 
 **Load/Install Order Notes:**
@@ -290,16 +311,7 @@ If it doesn't say "dirty" at the bottom of the messages window, that means it di
 * ForgottenGlory
   * Move `BleakFallsBarrowRevisited.esp` and `UstengravRevisited` to immediately after `Miscellaneous Patches Merged.esp` and before `BFBR_ELE_Patch.esp`
 
-## Use "No Camp" option for Hedge Mage Armor to prevent crashes/conflicts
-
-**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/5269 (Hedge Mage Armor - No Camp)
-
-**Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
-  * Hedge Mage Armor - No Camp.esp should be opened in Creation Kit and re-saved as a Form 44 plugin (just open it as the active mod, then save)
-  * Hedge Mage Armor.esp should be disabled, and replaced with Hedge Mage Armor - No Camp.esp (currently placed immediately before moonpath.esp in load order)
-
-## Update NPC AI Process Position Fix - SSE
+## Update NPC AI Process Position Fix - SSE (only 2.4.0)
 
 This mod was updated after the LS 2.4.0 release, just install the main file and replace
 

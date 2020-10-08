@@ -1,4 +1,4 @@
-## Bard Instrumentals Mostly / Alternative Bards Songs
+## Windstad Exterior Additions
 
 **Link:** https://www.nexusmods.com/skyrimspecialedition/mods/16972
 

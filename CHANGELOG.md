@@ -2,6 +2,17 @@
 
 This isn't going to be anything terribly comprehensive, just intended to give an idea of which mods to check for changes if you updated before a certain date.
 
+### 10/07/2020
+
+- NEW MOD: Unlimited Fast Travel
+- NEW MOD: Legacy of the Dragonborn - The Brotherhood of Old Patch
+- Actually linked Windstad Exterior Additions
+- Added patches for BadGremlins Collection and Amulets of Skyrim
+- Updated install/load order notes for Amulets of Skyrim, BadGremlins Collection, Volkihar Knight LOTD
+- Added three new mods to RudyHQ ENB Light
+- Added script change for Fossil Mining (technically for Faster Mining Plus)
+- 3D Snowberries was added to LS in 2.5.0
+
 ### 9/27/2020
 
 - Added Unofficial Legacy of the Dragonborn and Beyond Skyrim Bruma Synergy Patch to official patches for Beyond Skyrim - Bruma SE
