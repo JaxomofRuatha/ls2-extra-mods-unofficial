@@ -6,9 +6,13 @@ This is a completely unofficial listing of mods that I and others from the Livin
 
 I made this to collaborate on ideas, but it is entirely unofficial. You've been warned!
 
-ALSO note that you will **need to ESL flag plugins** from the standard LS list to get any of these to work. The easy guide on how to do that is [here](https://tes5edit.github.io/docs/8-managing-mod-files.html#ESLifyingPluginstheeasyway).
+## ESLifying and Important Caveats
 
-IMPORTANT: You will NOT be able to add EVERY SINGLE MOD HERE. The non-ESL limit for plugins is still 254, so you might have to choose some to get rid of if you want to include others. Depending on what you remove, you'll also have to patch accordingly (I try to treat LS as "one mod" for patching, so usually fine, but make sure to check in SSEEdit)
+Note that you will **need to ESL flag plugins** from the standard LS list to get any of these to work. The easy guide on how to do that is [here](https://tes5edit.github.io/docs/8-managing-mod-files.html#ESLifyingPluginstheeasyway). **DO NOT ESL FLAG Blocksteal**
+
+You will NOT be able to add EVERY SINGLE MOD HERE. The non-ESL limit for plugins is still 254, so you might have to choose some to get rid of if you want to include others. Depending on what you remove, you'll also have to patch accordingly (I try to treat LS as "one mod" for patching, so usually fine, but make sure to check in SSEEdit)
+
+If you have issues or notice unresolved conflicts/bugs, please report them in an issue! Things may go out of date somewhat quickly, and either way I don't claim perfection with custom patches. Thank you!
 
 <br>
 
