@@ -7,7 +7,7 @@
 **LS2 Compatibility Status:** Excellent (no known issues, no patching required)
 
 **Recommendations:** 
-* JaxomofRuatha (Highly Recommend)
+* JaxomofRuatha (Okay)
 
 **Official Patches:**
 _None_
@@ -21,4 +21,4 @@ _None_
 
 **Extra Notes:**
 
-I want to replace this with RS Children if I can get it to work, but this is a much simpler solution to make at least some of the kids look a little less potato for the moment.
+I have Realistic RS Children working [here](/mod-details/RealisticRSChildren.md), but this is a simpler solution to make at least some of the kids look a little less potato if you'd rather go that route.

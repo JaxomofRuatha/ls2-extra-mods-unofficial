@@ -8,7 +8,7 @@ I made this to collaborate on ideas, but it is entirely unofficial. You've been 
 
 ## ESLifying and Important Caveats
 
-Note that you will **need to ESL flag plugins** from the standard LS list to get any of these to work. The easy guide on how to do that is [here](https://tes5edit.github.io/docs/8-managing-mod-files.html#ESLifyingPluginstheeasyway). **DO NOT ESL FLAG Blocksteal**
+Note that you will **need to ESL flag plugins** from the standard LS list to get any of these to work. The easy guide on how to do that is [here](https://tes5edit.github.io/docs/8-managing-mod-files.html#ESLifyingPluginstheeasyway). **DO NOT ESL FLAG BlockSteal.esp**
 
 You will NOT be able to add EVERY SINGLE MOD HERE. The non-ESL limit for plugins is still 254, so you might have to choose some to get rid of if you want to include others. Depending on what you remove, you'll also have to patch accordingly (I try to treat LS as "one mod" for patching, so usually fine, but make sure to check in SSEEdit)
 
@@ -49,6 +49,8 @@ For the moment, I'm using the following rating system for any recommmendations:
 4. Not Needed
 5. Avoid
 
+The only people who have actually used mods in a playthrough of some kind are the ones with their recommendation in the mod page. Mods that have NO recommendations (listed under Unreviewed) didn't show any stability/compatibility problems with brief testing, but have not been used in a playthrough.
+
 **Installing patches/individual files from existing LS2 mods**
 
 For several patches and files, there is already a downloaded version with LS2, but the patches aren't selected for non-included mods. To add them without reinstalling over the original mod, do the following:
@@ -74,220 +76,13 @@ In some cases, there will need to be a dummy plugin that only contains basic inf
 **Other Random Notes**
 
 * In most cases where you're not attempting to create a merge patch it likely is fine to leave BSAs as-is, but I make a habit of unpacking every single one that I can, mainly to see what conflicts there are from installs since it doesn't seem to make any kind of performance difference (other than possibly at load)
+* I am starting to notate MODS (left pane of MO2) in quotations (e.g. "Unofficial Skyrim Special Edition Patch") and PLUGINS (right pane of MO2) in block quote format (e.g. `Unofficial Skyrim Special Edition Patch.esp`)
 
-<br><br>
+<br>
 
-# Added Mods
+# **[Link to Added Mods List](/ModDetailsIndex.md)**
 
-## Must-Add
-
-_None currently that have not been added to LS_
-
-## Highly Recommend
-
-#### [Pastel SkyUI Markers/Colorful Map Markers](mod-details/PastelMarkers.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Save the Icerunner - Lights Out Alternate Routes](mod-details/SaveTheIcerunner.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Enigma Series SSE / Talkative Dragons](mod-details/EnigmaSeriesTalkativeDragons.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Keld-Nar](mod-details/KeldNar.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Strange Runes](mod-details/StrangeRunes.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Bard Instrumentals Mostly / Alternative Bards Songs](mod-details/AlternativeBardSongs.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [ENB Light](mod-details/ENBLight.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Dear Diary - Paper SkyUI Menus Replacer SE](mod-details/DearDiary.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Halted Stream Camp - Revisited](mod-details/HaltedStreamCampRevisited.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Rudy HQ - More Lights for ENB SE](mod-details/RudyHQMoreLightsForENB.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Fluffy Snow](mod-details/FluffySnow.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Music Mods Merged](mod-details/MusicModsMerged.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Barenziah's Glowing SE](mod-details/BarenziahsGlowing.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [A Cat's Life](mod-details/ACatsLife.md)
-
-###### (:+1: @Day7-J)
-
-#### [Identity Crisis](mod-details/IdentityCrisis.md)
-
-###### (:+1: @WinterdrakeX)
-
-#### [Swift Potion Reborn](mod-details/SwiftPotionReborn.md)
-
-###### (:+1: @WinterdrakeX)
-
-#### [Aetherium Armor and Weapons Compilation by Lautasantenni](mod-details/AetheriumArmorAndWeapons.md)
-
-###### (:+1: @WinterdrakeX)
-
-#### [Jiub's Opus](mod-details/JiubsOpus.md)
-
-###### (:+1: @WinterdrakeX)
-
-#### [[SunJeong] Ninirim Collection 6.0](mod-details/NinirimCollection.md)
-
-###### (:+1: @WinterdrakeX)
-
-#### [Jesus In Skyrim](mod-details/JesusInSkyrim.md)
-
-###### (:+1: @WinterdrakeX)
-
-#### [NPC Dialogue Audio Enhancer](mod-details/NPCDialogueEnhancer.md)
-
-###### (:+1: @JaxomofRuatha)
-
-## Okay
-
-#### [Provincial Courier Service](mod-details/ProvincialCourierService.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Midwood Isle SE](mod-details/MidwoodIsle.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Animated Wings Ultimate](mod-details/AnimatedWingsUltimate.md)
-
-###### (:+1: @WinterdrakeX)
-
-#### [RUSTIC CHILDREN](mod-details/RusticChildren.md)
-
-###### (:+1: @JaxomofRuatha)
-
-## Unreviewed
-
-#### [The Tale of Tsatampra Xiros](mod-details/TsatampraXiros.md)
-
-#### [Voyage to the Dreamborne Isles SE](mod-details/DreamborneIsles.md)
-
-#### [Away Come Away](mod-details/AwayComeAway.md)
-
-#### [Maelstrom - Fully Voiced Follower and Quest Mod SSE](mod-details/Maelstrom.md)
-
-#### [Mealtime - A Food and Recipe Mod](mod-details/Mealtime.md)
-
-#### [Fossil Mining - With Legacy Support](mod-details/FossilMining.md)
-
-#### [Amulets of Skyrim](mod-details/AmuletsOfSkyrim.md)
-
-#### [Artifacts of Skyrim](mod-details/ArtifactsOfSkyrim.md)
-
-#### [Legacy of the Dragonborn BadGremlins Collection](mod-details/BadGremlinsCollection.md)
-
-#### [Artifacts - The Ice Blade of the Monarch](mod-details/IceBladeOfTheMonarch.md)
-
-#### [JaySuS Swords SE](mod-details/JaysusSwords.md)
-
-#### [Kthonia's Unique Weapon Pack - Dragonborn Weapons](mod-details/KthoniasUniqueWeapons.md)
-
-#### [New Treasure Hunt SSE](mod-details/NewTreasureHunt.md)
-
-#### [Oblivion Artifact Pack SE](mod-details/OblivionArtifacts.md)
-
-#### [Ruin's Edge](mod-details/RuinsEdge.md)
-
-#### [The Tools of Kagrenac](mod-details/ToolsOfKagrenac.md)
-
-#### [Volkihar Knight - Legacy of the Dragonborn Patch](mod-details/VolkiharKnightLOTD.md)
-
-#### [The Wheels of Lull](mod-details/WheelsOfLull.md)
-
-#### [Beyond Reach](mod-details/BeyondReach.md)
-
-#### [Beyond Skyrim - Bruma SE](mod-details/BSBruma.md)
-
-#### [Beyond Skyrim - Wares of Tamriel SE](mod-details/BSWaresOfTamriel.md)
-
-#### [Final Cataclysm - 2020](mod-details/FinalCataclysm2020.md)
-
-#### [Windstad Exterior Additions](mod-details/WindstadExteriorAdditions.md)
-
-#### [M'Rissi's Tails of Troubles SE](mod-details/MrissisTailsOfTroubles.md)
-
-#### [Sepolcri - A Complete Burial Sites Overhaul](mod-details/Sepolcri.md)
-
-#### [Triumvirate - Mage Archetypes](mod-details/Triumvirate.md)
-
-#### [Carriage and Ferry Travel Overhaul - Fixes and Winterhold](/mod-details/CTFOFixesWinterhold.md)
-
-#### [Legacy Safehouse Plus](mod-details/LegacySafehousePlus.md)
-
-#### [Legacy of the Dragonborn - Followers Patch](mod-details/LOTDFollowers.md)
-
-#### [Legacy of the Dragonborn - The Brotherhood of Old Patch](mod-details/BrotherhoodOfOldLOTD.md)
-
-#### [Unlimited Fast Travel](mod-details/UnlimitedFastTravel.md)
-
-## Added to LS
-
-#### [MAPS (added LS 2.3.0)](mod-details/MAPS.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Dawnguard Map Markers (added LS 2.3.0)](mod-details/DawnguardMapMarkers.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [JS Purses and Septims SE (added LS 2.3.0)](mod-details/JSPursesAndSeptims.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Depths of Skyrim - An Underwater Overhaul SSE (added LS 2.4.0)](mod-details/DepthsOfSkyrim.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Northern Marsh Bridges SE (added LS 2.4.0)](mod-details/NorthernMarshBridges.md)
-
-###### (:+1: @JaxomofRuatha)
-
-#### [Helgen Reborn - NordWarUA Armor Replacer (added LS 2.4.0)](mod-details/HelgenRebornArmorReplacer.md)
-
-###### (:+1: @WinterdrakeX)
-
-#### [3D Snowberries (added LS 2.5.0)](mod-details/3DSnowberries.md)
-
-###### (:+1: @JaxomofRuatha)
-
-## Deprecated or Needs Update/Patch
-
-#### [Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)](mod-details/ChapterII.md)
-
-#### [The Northerner Diaries in Skyrim](mod-details/NorthernerDiaries.md)
-
-<br><br>
+<br>
 
 # Miscellaneous Patches and Tweaks
 
@@ -295,11 +90,49 @@ _None currently that have not been added to LS_
 
 * Re-install Immersive Sounds - Compendium with a new name, but select whichever Nirnroot sound you prefer. Once installed, go into its Filetree and delete everything except for `sound/fx/itm_is/ingredient/itm_nirnroot_lp.wav`. Then just make sure it's after the original ISC mod in the install order.
 
+**Link:** [Pre-made mod](/custom-patches/Immersive%20Sounds%20-%20Compendium%20Re-Add%20Nirnroot%20Sounds.zip)
+
+## Mods that I have disabled/removed for more plugin slots
+
+* "iEquip"
+* "Toccata Follower SE (With Elisif Replacer Option)"
+* "Not So Fast - Main Quest"
+  * Also need to remove a patch from "LOTD Patches Merged" and rebuild
+    * Go to Tools -> Tool Plugins -> Merge Plugins Hide, right click "LOTD Patches Merged", Enable Plugins
+    * In "Legacy of the Dragonborn Patches (Official)", go to Optional ESPs tab and move `BCS_NotSoFast_Patch.esp` to optional
+    * Open zEdit from the MO2 executable link, choose zMerge, and find the "LOTD Patches Merged" merge. Click on "Remove Unavailable Plugins" (it should just be the Not So Fast one missing), and then build and exit zMerge.
+    * Go back into Merge Plugins Hide and disable plugins for "LOTD Patches Merged"
+
 <br><br>
 
 # Experimental/Temporary Bug Fixes and Consistency Patches
 
-## Fix for Archery Gameplay Overhaul and Pretty Combat Animations issue
+## Multi-version
+
+### Update NPC AI Process Position Fix - SSE
+
+This mod was updated after the LS 2.4.0 and LS 2.5.0 releases, just install the main file and replace
+
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/40261
+
+### Organic Factions and Extension Update
+
+This was tested with no stability issues on 2.4.0 by @ErikIEC, and that was without replacing the mod in the merge plugin. I have not played through with this change, but it seems to be stable from what I have seen
+
+**Links:**
+* https://www.nexusmods.com/skyrimspecialedition/mods/10289 (SSE OrganicFactions)
+* https://www.nexusmods.com/skyrimspecialedition/mods/25471 (SSE OrganicFactionsExtension)
+* [Patch by @ErikIEC with changes by @JaxomofRuatha](custom-patches/OrganicFactionsExtendedPatch.esp)
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.5.0)
+  * Install and Replace "SSE Organic Factions" and "SSE Organic Factions Extension"
+  * Rebuild "NPC Additions Merged"
+    * Go to Tools -> Tool Plugins -> Merge Plugins Hide, right click "NPC Additions Merged", Enable Plugins
+    * Open zEdit from the MO2 executable link, choose zMerge, and find the "NPC Additions Merged" merge. It should have "Organic Factions Extended" in yellow (and possibly the Serana Dialogue Additions) but otherwise be unchanged. Click "Build", and exit zMerge when done.
+  * `OrganicFactions.esm` should be after `EnhancedAIFramework.esm` (this should happen automatically upon replacing the mod), and `OrganicFactionsExtendedPatch.esp` should go after `LS2 Patches Merged.esp`
+
+### Fix for Archery Gameplay Overhaul and Pretty Combat Animations issue
 
 Note: This may not work well in more recent LS versions, was originally for 2.0.2
 
@@ -309,19 +142,7 @@ Note: This may not work well in more recent LS versions, was originally for 2.0.
 * TwistedModding
   * Place this patch after the mod: Compatibility Patch for Archery Gameplay Overhaul (AGO) and XP32 Skeleton Styles MCM
 
-## Fix for 2.4.0 Revisited mods conflict
-
-**Load/Install Order Notes:**
-* ForgottenGlory
-  * Move `BleakFallsBarrowRevisited.esp` and `UstengravRevisited` to immediately after `Miscellaneous Patches Merged.esp` and before `BFBR_ELE_Patch.esp`
-
-## Update NPC AI Process Position Fix - SSE (only 2.4.0)
-
-This mod was updated after the LS 2.4.0 release, just install the main file and replace
-
-**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/40261
-
-## Fix for human Serana eyes (included in LS 2.4.0)
+### Fix for human Serana eyes (included in LS 2.4.0+)
 
 Currently Serana's eyes once cured are linking to missing textures, this just links it to the one existing in the filepath.
 
@@ -330,8 +151,18 @@ Currently Serana's eyes once cured are linking to missing textures, this just li
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.2.1)
   * Patch ESP should go after LS2 Patches Merged
-  
-## Fix for 2.2.1 Black Face Bugs
+
+## LS 2.4.0
+
+### Fix for 2.4.0 Revisited mods conflict
+
+**Load/Install Order Notes:**
+* ForgottenGlory
+  * Move `BleakFallsBarrowRevisited.esp` and `UstengravRevisited.esp` to immediately after `Miscellaneous Patches Merged.esp` and before `BFBR_ELE_Patch.esp`
+
+## LS 2.2.1
+
+### Fix for 2.2.1 Black Face Bugs
 
 **Link:** [Patch by JaxomofRuatha](custom-patches/2.2.1/LS2%20BFB%20Fixes%20Patch.esp)
 
@@ -343,7 +174,7 @@ Currently Serana's eyes once cured are linking to missing textures, this just li
 
 Included NPCs in this patch are Golldir, Erandur, Vorstag, Madanach, Benor, Marcurio, Belrand, and Stenvar. The Men of Winter records were forwarded as is, so if there's changes in new LS releases, that might not be quite the same if there's customized patching.
 
-## Clockwork patches for LOTD display temporary fix (LS 2.2.1)
+### Clockwork patches for LOTD display temporary fix (LS 2.2.1)
 
 Currently the Clockwork LOTD display is broken, because the patches for it are above the actual Clockwork ESP. According to several testers, it works to move DBM_Clockwork_Patch.esp and LOTD_TCC_Clockwork.esp below Clockwork.esp.
 
@@ -352,11 +183,3 @@ Currently the Clockwork LOTD display is broken, because the patches for it are a
 This doesn't work correctly (from my experience) if done mid-save, the display doesn't get added and the LOTD Checklist gets glitched out. You may be able to rebuild the MCM and have it work.
 
 <br><br>
-
-# Mods Under Review
-
-These are mods that are known through reputation, interest, or prior attempts to integrate, and either haven't been correctly integrated/patched for LS2 yet or haven't had an attempt to add them
-
-<br>
-
-#### [Cheesemod for EVERYONE](mod-details/CheesemodForEveryone.md)

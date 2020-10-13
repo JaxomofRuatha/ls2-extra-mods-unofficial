@@ -2,6 +2,18 @@
 
 This isn't going to be anything terribly comprehensive, just intended to give an idea of which mods to check for changes if you updated before a certain date.
 
+### 10/12/2020
+
+- NEW MOD: Realistic RS Children
+- NEW MOD: The Hanging Gardens - SSE
+- NEW MOD(S): Valley of Outcasts & The Last Refuge
+- NEW MOD: Faction - Pit Fighter
+- NEW MOD: The Shadow of Meresis
+- NEW MOD: Shadows of the Past SSE
+- NEW MOD: FleshFX
+- Added information for updating Organic Factions/Extension and Update NPC AI Process Position Fix to README (and some general updates to README including mods I have removed to make plugin room)
+- Added instructions to Beyond Skyrim - Wares of Tamriel (ESLify JK's Skyrim patch)
+
 ### 10/07/2020
 
 - NEW MOD: Unlimited Fast Travel

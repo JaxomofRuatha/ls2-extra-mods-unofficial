@@ -13,7 +13,6 @@ _None_
 * https://www.nexusmods.com/skyrimspecialedition/mods/10917 (DLC Integration Patch)
 * https://www.nexusmods.com/skyrimspecialedition/mods/18369 (QUASIPC - Unified Patch Compendium v2_5_0, already in LS Downloads)
 * https://www.nexusmods.com/skyrimspecialedition/mods/13812 (Bruma and Other Patches for Convenient Horses, already in LS Downloads)
-* 
 
 **Custom Patches:**
 * [JOR - BS Bruma / Hearthfire Extended Patch](/custom-patches/JOR_BSBruma_HearthfireExtended_Patch.esp)
