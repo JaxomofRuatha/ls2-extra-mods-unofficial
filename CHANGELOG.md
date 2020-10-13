@@ -11,6 +11,7 @@ This isn't going to be anything terribly comprehensive, just intended to give an
 - NEW MOD: The Shadow of Meresis
 - NEW MOD: Shadows of the Past SSE
 - NEW MOD: FleshFX
+- NEW MOD: Relaxed Sneak Animations
 - Added information for updating Organic Factions/Extension and Update NPC AI Process Position Fix to README (and some general updates to README including mods I have removed to make plugin room)
 - Added instructions to Beyond Skyrim - Wares of Tamriel (ESLify JK's Skyrim patch)
 

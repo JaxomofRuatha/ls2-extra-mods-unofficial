@@ -98,6 +98,10 @@
 
 ###### (:+1: @chosti-factor)
 
+#### [Relaxed Sneak Animations](mod-details/RelaxedSneakAnimations.md)
+
+###### (:+1: @chosti-factor)
+
 #### [FleshFX](mod-details/FleshFX.md)
 
 ###### (:+1: @chosti-factor)
