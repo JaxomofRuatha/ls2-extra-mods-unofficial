@@ -17,7 +17,7 @@ This is a list of the updates and changes I make to the base LS installation bef
 * "Easter Eggs Merged"
   * Go to SSEEdit and select `Settlements Merged.esp`. Right click, Apply Script, Report masters, and select Easter Eggs Merged. Remove all records referencing, and then Clean Masters.
   * Do the same for `enemies_releveled.esp` (I only had one record to remove here). Exit SSEEdit and save changes to both plugins.
-  * LS2 Easter Eggs Patch TODO
+  * Go to Tools -> Tool Plugins -> Merge Plugins Hide, right click "LS2 Patches Merged", Enable Plugins. Under the "LS2 Patches" mod, hide the `LS2 Easter Eggs Patch.esp` file (I put it to optional). Then go into zMerge, "remove unavailable plugins" for LS2 Patches Merged (should just be the one), and rebuild the patch. Exit zMerge and Disable Plugins for the merge.
   * Then disable "Easter Eggs Merged".
 
 ## New and Modified Merges
@@ -48,12 +48,12 @@ Once that's done, do the following:
 This is definitely optional, just frees up one additional plugin slot (and moves the fix to a place where it seems like it does more actual fixing)
 
 * Go to Tools -> Tool Plugins -> Merge Plugins Hide, Enable Plugins for Gameplay Merged
-* Go into zMerge, and Edit the Gameplay Merged Plugins to include `Moonpath Music - Sky and Lighting fix - merged.esp.mohidden`. Under the "Load Order" tab, if needed, move the plugin to the top of the other selected plugins so there's only a block of black plugins on top and green on the bottom. Then build the patch.
-* Exit zMerge and Disable Plugins for Gameplay Merged. 
+* Go into zMerge, and Edit the Gameplay Merged Plugins to include `Moonpath Music - Sky and Lighting fix - merged.esp`. Under the "Load Order" tab, if needed, move the plugin to the top of the other selected plugins so there's only a block of black plugins on top and green on the bottom. Then build the patch.
+* Exit zMerge and Disable Plugins for Gameplay Merged.
 
 ### HUD Merged
 
-There's already an unused merge available for this. Go to zMerge and either just build it (MAKING SURE to go to the "Data" tab of the merge and selecting "Copy General Assets") or, if you're using Gamepad Plus Plus, I add that to this merge as well.
+There's already an unused merge available for this. Go to zMerge and either just build it (MAKING SURE to go to the "Data" tab of the merge and selecting "Copy General Assets") or, if you're using "Gamepad Plus Plus" and/or "Less Intrusive HUD II SE", I add those to this merge as well (`Gamepad++.esp` and `LessIntrusiveHUD.esp`, best to load them in after the others in the merge).
 
 `HUD Merged.esp` should be loaded just before `Men Of Winter.esp`. Once this is enabled, use Merge Plugins Hide to disable the plugins for "HUD Merged".
 
@@ -71,8 +71,9 @@ There is also an unused merge for this, but several things need to get changed.
 
 These mods seem fine to just be directly updated (choose "Replace" option for the given mod)
 
+* "Legacy of the Dragonborn SSE - The Curators Companion" (https://www.nexusmods.com/skyrimspecialedition/mods/38529)
+  * You can either reinstall this for only the initial LS mods and then make a separate mod for the extras, or just reinstall one mod with both.
 * "powerofthree's Papyrus Extender for SSE" (https://www.nexusmods.com/skyrimspecialedition/mods/22854)
-* "SSE Display Tweaks" (https://www.nexusmods.com/skyrimspecialedition/mods/34705)
 * "JContainers SE" (https://www.nexusmods.com/skyrimspecialedition/mods/16495)
 * "moreHUD Inventory Edition" (https://www.nexusmods.com/skyrimspecialedition/mods/18619)
 * "Ordinator - Perks of Skyrim" (https://www.nexusmods.com/skyrimspecialedition/mods/1137)
@@ -88,7 +89,25 @@ These mods seem fine to just be directly updated (choose "Replace" option for th
 
 ### Nether's Follower Framework
 
+Again I'm not positive on how stable this is, but I'm updating to the most recent version for my playthrough since there are quite a few changes.
 
+**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/18076
+
+**Load/Install Notes:**
+* For the FOMOD, here are the selections I made:
+  * Core Options
+    * Followers Avoid Traps
+    * Replace Base Dialogue Scripts
+    * Follower Class BAT Files
+  * Core Mod Support
+    * Interesting NPCs
+    * Relationship Dialogue Overhaul (RDO)
+    * RDO Comments
+  * No Team Magic Damage SSE
+    * ESP for Skyrim Special Edition
+    * Apocalypse for SSE
+* Go to Merge Plugins Hide and enable Plugins for "Pre-Final Steps Merge". Go into zMerge, and the corresponding merge should have `nwsFF_NoTeamMagicDamage.esp` and `nwsFF_NTMD_Apocalypse.esp` showing as changed (at least it did for me, I made a second mod for the updated NFF, but that's probably paranoid). Just rebuild this mod (I also added `Toccata.esp` here, but that's not necessary), then exit zMerge and re-hide the plugins.
+*  I installed the mod right where it was previously (right under "Vilja in Skyrim"), and same for load order (right before `OCW_CellSettings.esp`)
 
 ### Organic Factions and Extension
 
@@ -100,7 +119,7 @@ This was tested with no stability issues on 2.4.0 by @ErikIEC, and that was with
 * [Patch by @ErikIEC with changes by @JaxomofRuatha](custom-patches/OrganicFactionsExtendedPatch.esp)
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.5.0)
+* JaxomofRuatha (LS2 version 2.5.0, 2.5.2)
   * Install and Replace "SSE Organic Factions" and "SSE Organic Factions Extension"
   * Rebuild "NPC Additions Merged"
     * Go to Tools -> Tool Plugins -> Merge Plugins Hide, right click "NPC Additions Merged", Enable Plugins
