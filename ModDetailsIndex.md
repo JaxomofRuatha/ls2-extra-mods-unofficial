@@ -24,7 +24,7 @@
 
 #### [Strange Runes](mod-details/StrangeRunes.md)
 
-###### (:+1: @JaxomofRuatha)
+###### (:+1: @JaxomofRuatha, :+1: @chosti-factor)
 
 #### [Bard Instrumentals Mostly / Alternative Bards Songs](mod-details/AlternativeBardSongs.md)
 
@@ -197,6 +197,24 @@
 #### [Unlimited Fast Travel](mod-details/UnlimitedFastTravel.md)
 
 #### [The Hanging Gardens - SSE](mod-details/HangingGardens.md)
+
+#### [Royal Armory - New Artifacts](mod-details/RoyalArmory.md)
+
+#### [Staff Of Sheogorath](mod-details/StaffOfSheogorath.md)
+
+#### [Nordic Snow](mod-details/NordicSnow.md)
+
+#### [Kaidan 2](mod-details/Kaidan2.md)
+
+#### [Milk and Honey](mod-details/MilkAndHoney.md)
+
+#### [Teldryn Serious - A Teldryn Sero Backstory Quest SSE](mod-details/TeldrynSerious.md)
+
+#### [Blackreach Railroad](mod-details/BlackreachRailroad.md)
+
+#### [Dwemer Spectres Special Edition](mod-details/DwemerSpectres.md)
+
+#### [Aethernautics- A Space Travel Mod](mod-details/Aethernautics.md)
 
 ## Added to LS
 

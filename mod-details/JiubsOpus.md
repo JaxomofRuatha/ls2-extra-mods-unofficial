@@ -16,10 +16,10 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
-  * Currently after Occlusion.esp in load order
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
+  * Currently after `Occlusion.esp` in load order
 * WinterdrakeX (LS2 version 2.2.1)
-  * Install anywhere after Occlusion.esp
+  * Install anywhere after `Occlusion.esp`
 
 **Extra Notes:**
 * Don't go wandering off in the Soul Cairn for eternity just for a small quest. ESL flagged!

@@ -16,10 +16,10 @@ _None_
 * [JOR - A Cat's Life / USSEP Patch](/custom-patches/JOR_ACatsLife_USSEP_Patch.esp)
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
-  * Install this mod before Darkend
-  * ACatsLife.esp before Audio Overhaul Skyrim.esp
-  * JOR_ACatsLife_USSEP_Patch.esp after zPatch.esp
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
+  * Install this mod before "Darkend"
+  * Load `ACatsLife.esp` before `Audio Overhaul Skyrim.esp`
+  * `JOR_ACatsLife_USSEP_Patch.esp` after `zPatch.esp`
 * Day7 (LS2 version 2.2.1)
   * I tend to just smash stuff together, but I haven't had any issues with it just going at the end of my load order
 

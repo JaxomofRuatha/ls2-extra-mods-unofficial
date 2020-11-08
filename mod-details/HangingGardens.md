@@ -10,7 +10,7 @@
 _None_
 
 **Official Patches:**
-* https://www.nexusmods.com/skyrimspecialedition/mods/14353 (Clockwork Patch)
+_None_
 
 **Custom Patches:**
 * [JOR - Hanging Gardens / USSEP Patch](/custom-patches/JOR_HangingGardens_USSEP_Patch.esp)

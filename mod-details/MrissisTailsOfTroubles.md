@@ -21,11 +21,12 @@ _None_
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.4.0)
-  * Install the main M'Rissi's Tails of Troubles SE mod with whatever FOMOD options you like, just make sure to use the CBBE version
+  * Install the main "M'Rissi's Tails of Troubles SE" mod with whatever FOMOD options you like, just make sure to use the CBBE version
   * Install the Delayed Start mod after the main M'Rissi's Tails of Troubles SE mod (if you include a delayed start, not required)
-  * OCW_MToT_FEPatch.esp before ELE_SSE.esp (NOTE: I reinstalled Obscure's College of Winterhold with a different name and removed the non-patch files to get this patch)
-  * JOR_Mrissi_3DNPC_Patch.esp, JOR_Mrissi_Hunterborn_Patch.esp, JOR_Mrissi_WheelsOfLull_Patch.esp (ONLY IF USING WoL!), and JOR_Mrissi_Wintersun_Patch.esp loaded after zPatch.esp
+  * Load `MrissiTailOfTroubles.esp` before `AudioOverhaulSkyrim.esp`
+  * `OCW_MToT_FEPatch.esp` before `ELE_SSE.esp` (NOTE: I reinstalled Obscure's College of Winterhold with a different name and removed the non-patch files to get this patch)
+  * `JOR_Mrissi_3DNPC_Patch.esp`, `JOR_Mrissi_Hunterborn_Patch.esp`, `JOR_Mrissi_WheelsOfLull_Patch.esp` (ONLY IF USING WoL!), and `JOR_Mrissi_Wintersun_Patch.esp` loaded after `zPatch.esp`
 
 **Extra Notes:**
 
-If you want this mod installed, you MUST use the No Camp version of the Hedge Mage Armor mod (see the main README page). It MIGHT work with the worldspace edits, but I had multiple crashes that I assume were because of that conflict (and even without CTDs, the exit from this mod can't be accessed without using console).
+If you want this mod installed, you MUST use the No Camp version of the Hedge Mage Armor mod (see the main README page). It MIGHT work with the worldspace edits, but I had multiple crashes that I assume were because of that conflict (and even without CTDs, the exit from this mod can't be accessed without using console). This is a moot point after LS 2.4.0, as the No Camp version is installed by default.

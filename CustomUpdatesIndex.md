@@ -73,6 +73,8 @@ These mods seem fine to just be directly updated (choose "Replace" option for th
 
 * "Legacy of the Dragonborn SSE - The Curators Companion" (https://www.nexusmods.com/skyrimspecialedition/mods/38529)
   * You can either reinstall this for only the initial LS mods and then make a separate mod for the extras, or just reinstall one mod with both.
+* "Legacy of the Dragonborn Patches (Official)" (https://www.nexusmods.com/skyrimspecialedition/mods/30980)
+  * Same as Curator's Companion
 * "powerofthree's Papyrus Extender for SSE" (https://www.nexusmods.com/skyrimspecialedition/mods/22854)
 * "JContainers SE" (https://www.nexusmods.com/skyrimspecialedition/mods/16495)
 * "moreHUD Inventory Edition" (https://www.nexusmods.com/skyrimspecialedition/mods/18619)

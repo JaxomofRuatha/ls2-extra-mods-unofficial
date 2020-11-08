@@ -16,5 +16,5 @@
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.2.1, 2.4.0)
-  * Fluffy Snow - BlendedRoads Patch.esp is before ELE_SSE.esp
+* JaxomofRuatha (LS2 version 2.2.1, 2.4.0, 2.5.2)
+  * `Fluffy Snow - BlendedRoads Patch.esp` is before `ELE_SSE.esp`

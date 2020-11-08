@@ -17,7 +17,7 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.5.0)
+* JaxomofRuatha (LS2 version 2.5.0, 2.5.2)
   * `FleshFX.esp` is currently before `Bashed Patch, 0.esp` (definitely needs to be before `LS2 Patches Merged`)
 
 **Extra Notes:**

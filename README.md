@@ -6,13 +6,13 @@ This is a completely unofficial listing of mods that I and others from the Livin
 
 I made this to collaborate on ideas, but it is entirely unofficial. You've been warned!
 
+If you have issues or notice unresolved conflicts/bugs, please report them in an issue! Things may go out of date somewhat quickly, and either way I don't claim perfection with custom patches. Thank you!
+
 ## ESLifying and Important Caveats
 
 Note that you will **need to ESL flag plugins** from the standard LS list to get any of these to work. The easy guide on how to do that is [here](https://tes5edit.github.io/docs/8-managing-mod-files.html#ESLifyingPluginstheeasyway). **DO NOT ESL FLAG BlockSteal.esp**
 
 You will NOT be able to add EVERY SINGLE MOD HERE. The non-ESL limit for plugins is still 254, so you might have to choose some to get rid of if you want to include others. Depending on what you remove, you'll also have to patch accordingly (I try to treat LS as "one mod" for patching, so usually fine, but make sure to check in SSEEdit)
-
-If you have issues or notice unresolved conflicts/bugs, please report them in an issue! Things may go out of date somewhat quickly, and either way I don't claim perfection with custom patches. Thank you!
 
 <br>
 
@@ -80,6 +80,10 @@ In some cases, there will need to be a dummy plugin that only contains basic inf
 
 <br>
 
+# **[Link to Custom Updates, Merges, and Reorganization]()**
+
+<br>
+
 # **[Link to Added Mods List](/ModDetailsIndex.md)**
 
 <br>
@@ -92,45 +96,12 @@ In some cases, there will need to be a dummy plugin that only contains basic inf
 
 **Link:** [Pre-made mod](/custom-patches/Immersive%20Sounds%20-%20Compendium%20Re-Add%20Nirnroot%20Sounds.zip)
 
-## Mods that I have disabled/removed for more plugin slots
-
-* "iEquip"
-* "Toccata Follower SE (With Elisif Replacer Option)"
-* "Not So Fast - Main Quest"
-  * Also need to remove a patch from "LOTD Patches Merged" and rebuild
-    * Go to Tools -> Tool Plugins -> Merge Plugins Hide, right click "LOTD Patches Merged", Enable Plugins
-    * In "Legacy of the Dragonborn Patches (Official)", go to Optional ESPs tab and move `BCS_NotSoFast_Patch.esp` to optional
-    * Open zEdit from the MO2 executable link, choose zMerge, and find the "LOTD Patches Merged" merge. Click on "Remove Unavailable Plugins" (it should just be the Not So Fast one missing), and then build and exit zMerge.
-    * Go back into Merge Plugins Hide and disable plugins for "LOTD Patches Merged"
 
 <br><br>
 
 # Experimental/Temporary Bug Fixes and Consistency Patches
 
 ## Multi-version
-
-### Update NPC AI Process Position Fix - SSE
-
-This mod was updated after the LS 2.4.0 and LS 2.5.0 releases, just install the main file and replace
-
-**Link:** https://www.nexusmods.com/skyrimspecialedition/mods/40261
-
-### Organic Factions and Extension Update
-
-This was tested with no stability issues on 2.4.0 by @ErikIEC, and that was without replacing the mod in the merge plugin. I have not played through with this change, but it seems to be stable from what I have seen
-
-**Links:**
-* https://www.nexusmods.com/skyrimspecialedition/mods/10289 (SSE OrganicFactions)
-* https://www.nexusmods.com/skyrimspecialedition/mods/25471 (SSE OrganicFactionsExtension)
-* [Patch by @ErikIEC with changes by @JaxomofRuatha](custom-patches/OrganicFactionsExtendedPatch.esp)
-
-**Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.5.0)
-  * Install and Replace "SSE Organic Factions" and "SSE Organic Factions Extension"
-  * Rebuild "NPC Additions Merged"
-    * Go to Tools -> Tool Plugins -> Merge Plugins Hide, right click "NPC Additions Merged", Enable Plugins
-    * Open zEdit from the MO2 executable link, choose zMerge, and find the "NPC Additions Merged" merge. It should have "Organic Factions Extended" in yellow (and possibly the Serana Dialogue Additions) but otherwise be unchanged. Click "Build", and exit zMerge when done.
-  * `OrganicFactions.esm` should be after `EnhancedAIFramework.esm` (this should happen automatically upon replacing the mod), and `OrganicFactionsExtendedPatch.esp` should go after `LS2 Patches Merged.esp`
 
 ### Fix for Archery Gameplay Overhaul and Pretty Combat Animations issue
 
