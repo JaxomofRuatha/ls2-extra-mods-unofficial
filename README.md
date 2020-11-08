@@ -80,7 +80,7 @@ In some cases, there will need to be a dummy plugin that only contains basic inf
 
 <br>
 
-# **[Link to Custom Updates, Merges, and Reorganization]()**
+# **[Link to Custom Updates, Merges, and Reorganization](/CustomUpdatesIndex.md)**
 
 <br>
 
