@@ -24,6 +24,6 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.2.1, 2.4.0)
+* JaxomofRuatha (LS2 version 2.2.1, 2.4.0, 2.5.2)
   * Install order Moths -> Deathbells and Nirnroots -> Bthardamz -> Chaurus Eggs and Sacs -> Glowing Mushrooms -> Soul Gems, last should at least be after RUSTIC SOUL GEMS
   * "Daedric Weapons" and "Arrows" overwrite LS textures that may be preferred, but since these are non-plugin mods you can change around freely mid-playthrough to see what you prefer

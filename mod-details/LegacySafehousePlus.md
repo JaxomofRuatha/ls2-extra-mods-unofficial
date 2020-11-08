@@ -17,5 +17,5 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
-  * DBM_SafehousePlus_Addon.esp and LOTD_TCC_SafehousePlus.esp in that order, currently before ELE_SSE.esp (NOTE: I reinstalled the Legacy of the Dragonborn Official Patches and Legacy of the Dragonborn SSE - The Curators Companion with different names and no other patches enabled to get these)
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
+  * `DBM_SafehousePlus_Addon.esp` and `LOTD_TCC_SafehousePlus.esp` in that order, currently before `ELE_SSE.esp` (NOTE: I reinstalled the Legacy of the Dragonborn Official Patches and Legacy of the Dragonborn SSE - The Curators Companion with different names and no other patches enabled to get these)

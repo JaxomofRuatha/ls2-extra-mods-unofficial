@@ -20,6 +20,6 @@ _None_
 * Volkihar Knight.esp
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
   * Place `Volkihar Knight.esp` dummy plugin before `Audio Overhaul Skyrim.esp`.
   * `DBM_VolkiharKnight_Patch.esp` and `LOTD_TCC_Volkihar.esp` in that order, currently before `ELE_SSE.esp` (NOTE: I reinstalled the "Legacy of the Dragonborn Official Patches" and "Legacy of the Dragonborn SSE - The Curators Companion" with different names and no other patches enabled to get these)

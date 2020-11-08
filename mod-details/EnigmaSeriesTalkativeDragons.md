@@ -20,7 +20,7 @@
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
   * Enigma Series AIO installed first, then the patches, making sure all of it is after VIGILANT/Wyrmstooth
 * JaxomofRuatha (LS2 version 2.2.1)
   * DragonCombatDialogue.esp seems like it can go anywhere after the vanilla and DLC, I have it after Occlusion.esp currently

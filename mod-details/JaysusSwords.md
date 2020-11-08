@@ -19,6 +19,6 @@ _None_
 * _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
-  * JSwords.esm before SkyUI_SE.esp
-  * DBM_JaysusSwords_Patch.esp and LOTD_TCC_JaysusCraft.esp in that order, currently before ELE_SSE.esp (NOTE: I reinstalled the Legacy of the Dragonborn Official Patches and Legacy of the Dragonborn SSE - The Curators Companion with different names and no other patches enabled to get these)
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
+  * `JSwords.esm` before `SkyUI_SE.esp`
+  * `DBM_JaysusSwords_Patch.esp` and `LOTD_TCC_JaysusCraft.esp` in that order, currently before `ELE_SSE.esp` (NOTE: I reinstalled the Legacy of the Dragonborn Official Patches and Legacy of the Dragonborn SSE - The Curators Companion with different names and no other patches enabled to get these)

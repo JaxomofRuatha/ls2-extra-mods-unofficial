@@ -16,10 +16,10 @@
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
-  * Identity Crisis.esp is loaded before ELE_SSE.esp
-  * Wintersun Patch.esp loaded anywhere after Identity Crisis.esp and Wintersun - Faiths of Skyrim.esp. Currently immediately after Identity Crisis.esp
-  * BS Bruma Patch.esp (if using BS Bruma) currently loaded before DynDOLOD.esp
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
+  * `Identity Crisis.esp` is loaded before `ELE_SSE.esp`
+  * `Wintersun Patch.esp` loaded anywhere after `Identity Crisis.esp` and `Wintersun - Faiths of Skyrim.esp`. Currently immediately after `Identity Crisis.esp`
+  * `BS Bruma Patch.esp` (if using BS Bruma) currently loaded before `DynDOLOD.esp`
 * WinterdrakeX (LS2 version 2.2.1)
-  * Identity Crisis.esp must be loaded before ELE_SSE.esp
-  * Wintersun Patch.esp loaded anywhere after Identity Crisis.esp and Wintersun - Faiths of Skyrim.esp. Currently after Occlusion.esp
+  * `Identity Crisis.esp` must be loaded before `ELE_SSE.esp`
+  * `Wintersun Patch.esp` loaded anywhere after `Identity Crisis.esp` and `Wintersun - Faiths of Skyrim.esp`. Currently after `Occlusion.esp`

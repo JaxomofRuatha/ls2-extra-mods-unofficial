@@ -23,7 +23,7 @@ _None_
 * JK's Dragonsreach.esp
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
   * `BGCollectables.esp` before `Audio Overhaul Skyrim.esp`
   * `DBM_BGCollectables_Patch.esp` and `LOTD_TCC_Gremlins.esp` in that order, currently before `ELE_SSE.esp` (NOTE: I reinstalled the "Legacy of the Dragonborn Official Patches" and "Legacy of the Dragonborn SSE - The Curators Companion" with different names and no other patches enabled to get these)
   * `OCW_BGC_FEPatch.esp` before `ELE_SSE.esp` (NOTE: I reinstalled "Obscure's College of Winterhold" with a different name and removed the non-patch files to get this patch)

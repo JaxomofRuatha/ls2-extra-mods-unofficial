@@ -16,5 +16,5 @@ _None_
 * [Triumvirate / Dawnguard Arsenal Patch (falcon7370)](/custom-patches/Triumvirate_-_Dawnguard_Arsenal_Patch.rar)
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
-  * I currently have Triumvirate - Mage Archetypes.esp and Triumvirate_DawnguardArsenal_Patch.esp loaded in that order after zPatch.esp
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
+  * I currently have `Triumvirate - Mage Archetypes.esp` and `Triumvirate_DawnguardArsenal_Patch.esp` loaded in that order after `zPatch.esp`

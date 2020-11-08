@@ -20,7 +20,7 @@ _None_
 * [JOR - M'Rissi / Wintersun Patch](/custom-patches/JOR_Mrissi_Wintersun_Patch.esp)
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
   * Install the main "M'Rissi's Tails of Troubles SE" mod with whatever FOMOD options you like, just make sure to use the CBBE version
   * Install the Delayed Start mod after the main M'Rissi's Tails of Troubles SE mod (if you include a delayed start, not required)
   * Load `MrissiTailOfTroubles.esp` before `AudioOverhaulSkyrim.esp`

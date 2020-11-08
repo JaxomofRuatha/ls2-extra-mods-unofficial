@@ -18,7 +18,7 @@ _None_
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.5.2)
-  * Make sure to unpack the BSA for "Kaidan 2" when installing. "Pandorable's Kaidan - hair fix SE" should be installed after the main "Kaidan 2" mod
+  * Make sure to unpack the BSA for "Kaidan 2" when installing. "Pandorable's Kaidan - hair fix SE" should be installed after the main "Kaidan 2" mod. Install both BEFORE "unofficial performance optimized textures AKA (UPOT)"
   * Load `0Kaidan.esp` before `BlackthornManor.esp`
   * Load `JOR_Kaidan_USSEP_Patch.esp` after `zPatch.esp`, and `JOR_Kaidan_OcclusionLS2.5.2_Patch.esp` after `Occlusion.esp`
 

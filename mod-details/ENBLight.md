@@ -13,15 +13,15 @@
 * https://www.nexusmods.com/skyrimspecialedition/mods/22574 (ENB Light 0.95 RC2 patch 1, ENB Light 0.95 RC2 patch 2, Magic Staff lights, Glowing Caveworms and Blackreach Plants, patch for Quick Light SE, patch for Visual Animated Enchants, Inferno patch and Fire fixes)
 
 **Custom Patches:**
-* [JOR - ENB Light / ELE SSE Patch (2.2.1, 2.4.0)](/custom-patches/JOR_ENBLight_ELESSE_Patch.esp)
+* [JOR - ENB Light / ELE SSE Patch](/custom-patches/JOR_ENBLight_ELESSE_Patch.esp)
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
-  * ENB Light.esp is currently before Audio Overhaul Skyrim.esp
-  * JOR_ENBLight_ELESSE_Patch.esp is currently after LS2 Patches Merged.esp
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
+  * `ENB Light.esp` is currently before `Audio Overhaul Skyrim.esp`
+  * `JOR_ENBLight_ELESSE_Patch.esp` is currently after `LS2 Patches Merged.esp`
 * JaxomofRuatha (LS2 version 2.2.1)
-  * ENB Light.esp is currently before Audio Overhaul Skyrim.esp
-  * JOR_ENBLight_ELESSE_Patch.esp is currently before ai overhaul patch.esp
+  * `ENB Light.esp` is currently before `Audio Overhaul Skyrim.esp`
+  * `JOR_ENBLight_ELESSE_Patch.esp` is currently before `ai overhaul patch.esp`
   
 **Extra Notes:**
 

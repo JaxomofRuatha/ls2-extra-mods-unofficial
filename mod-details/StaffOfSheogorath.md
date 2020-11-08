@@ -16,6 +16,9 @@ _None_
 **Custom Patches:**
 _None_
 
+**CLEANING REQUIRED:**
+* `StaffOfSheogorath.esp`
+
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.5.2)
   * Load `StaffOfSheogorath.esp` before `Audio Overhaul Skyrim.esp`

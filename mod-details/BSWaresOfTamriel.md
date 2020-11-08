@@ -16,7 +16,7 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
   * Install "Beyond Skyrim - Wares of Tamriel SE" mod after "Beyond Skyrim - Bruma SE" and before "Darkend"
   * Currently I have `BeyondSkyrimMerchant.esp` and `JK's Skyrim + Beyond Skyrim Wares - Patch.esp` loaded before `ELE_SSE.esp`
 

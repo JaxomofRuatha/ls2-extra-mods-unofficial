@@ -16,5 +16,5 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
-  * Sepolcri.esp and Sepolcri - JK's Skyrim patch.esp should both go after zPatch.esp but before DynDOLOD.esp
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
+  * `Sepolcri.esp` and `Sepolcri - JK's Skyrim patch.esp` should both go after `zPatch.esp` but before `DynDOLOD.esp`

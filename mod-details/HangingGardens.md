@@ -17,7 +17,7 @@ _None_
 * [JOR - Hanging Gardens / Occlusion Patch (2.5.0)](/custom-patches/2.5.0/JOR_HangingGardens_OcclusionLS2.5.0_Patch.esp)
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.5.0)
+* JaxomofRuatha (LS2 version 2.5.0, 2.5.2)
   * Install "The Hanging Gardens - SSE" mod before "Darkend"
   * Load `bhabhilon.esp` before `DeadlyDragons.esp`
   * Load `JOR_HangingGardens_USSEP_Patch.esp` after `LS2 Patches Merged`, and `JOR_HangingGardens_OcclusionLS2.5.0_Patch.esp` after `Occlusion.esp`

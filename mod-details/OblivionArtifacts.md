@@ -18,7 +18,7 @@ _None_
 * [JOR - Oblivion Artifact Pack / LS2 Bash Patch](/custom-patches/2.4.0/JOR_OblivionArtifacts_LS2Bash_Patch.esp)
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
-  * WZOblivionArtifacts.esp before Audio Overhaul Skyrim.esp
-  * JOR_OblivionArtifacts_USSEP_Patch.esp and JOR_OblivionArtifacts_LS2Bash_Patch.esp (in that order) after LS2 Patches Merged.esp
-  * DBM_OblivionArtifacts_Patch.esp and LOTD_TCC_OblivionArt.esp in that order, currently before ELE_SSE.esp (NOTE: I reinstalled the Legacy of the Dragonborn Official Patches and Legacy of the Dragonborn SSE - The Curators Companion with different names and no other patches enabled to get these)
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
+  * `WZOblivionArtifacts.esp` before `Audio Overhaul Skyrim.esp`
+  * `JOR_OblivionArtifacts_USSEP_Patch.esp` and `JOR_OblivionArtifacts_LS2Bash_Patch.esp` (in that order) after `LS2 Patches Merged.esp`
+  * `DBM_OblivionArtifacts_Patch.esp` and `LOTD_TCC_OblivionArt.esp` in that order, currently before `ELE_SSE.esp` (NOTE: I reinstalled the Legacy of the Dragonborn Official Patches and Legacy of the Dragonborn SSE - The Curators Companion with different names and no other patches enabled to get these)

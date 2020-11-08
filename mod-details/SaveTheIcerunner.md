@@ -13,12 +13,12 @@
 _None_
 
 **Custom Patches:**
-* [JOR - Save The Icerunner / LS2 Merges Patch (2.2.1, 2.4.0)](/custom-patches/JOR_SaveTheIcerunner_LS2Merges_Patch.esp)
+* [JOR - Save The Icerunner / LS2 Merges Patch](/custom-patches/JOR_SaveTheIcerunner_LS2Merges_Patch.esp)
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
-  * SaveTheIcerunner.esp is immediately after TheChoiceIsYours.esp
-  * JOR_SaveTheIcerunner_LS2Merges_Patch.esp is after Occlusion.esp
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
+  * `SaveTheIcerunner.esp` is immediately after `TheChoiceIsYours.esp`
+  * `JOR_SaveTheIcerunner_LS2Merges_Patch.esp` is after `Occlusion.esp`
 * JaxomofRuatha (LS2 version 2.2.1)
-  * SaveTheIcerunner.esp is before ELE_SSE.esp
-  * JOR_SaveTheIcerunner_LS2Merges_Patch.esp is before ai overhaul patch.esp
+  * `SaveTheIcerunner.esp` is before `ELE_SSE.esp`
+  * `JOR_SaveTheIcerunner_LS2Merges_Patch.esp` is before `ai overhaul patch.esp`

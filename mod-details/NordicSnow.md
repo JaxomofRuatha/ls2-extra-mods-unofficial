@@ -18,4 +18,4 @@ _None_
 
 **Load/Install Order Notes:**
 * chosti-factor (LS2 version 2.5.0)
-  * "Nordic Snow (aka HQ Snow Texture)" is just after Hyperborean Snow in MO2's left pane. I disabled Hyperborean snow. custom Blended Roads patch is after Nordic Snow wherever.
+  * "Nordic Snow (aka HQ Snow Texture)" is just after "Hyperborean Snow" in MO2's left pane. I disabled Hyperborean snow. custom Blended Roads patch is after Nordic Snow wherever.

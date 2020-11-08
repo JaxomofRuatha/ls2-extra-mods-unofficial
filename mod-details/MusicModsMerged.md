@@ -13,11 +13,11 @@
 * [OCW Patch](https://www.nexusmods.com/skyrimspecialedition/mods/4625)
 
 **Custom Patches:**
-* [JOR - Music Merged / LS2 Patches and ELE Patch (2.2.1, 2.4.0)](/custom-patches/2.2.1/JOR_MusicMerged_LS2Patches_Patch.esp)
+* [JOR - Music Merged / LS2 Patches and ELE Patch](/custom-patches/2.2.1/JOR_MusicMerged_LS2Patches_Patch.esp)
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.2.1, 2.4.0)
-  * MusicMerged.esp -> MMM_OCW-patch.esp -> JOR_MusicMerged_LS2Patches_Patch in that order should be anywhere after Occlusion.esp
+* JaxomofRuatha (LS2 version 2.2.1, 2.4.0, 2.5.2)
+  * `MusicMerged.esp` -> `MMM_OCW-patch.esp` -> `JOR_MusicMerged_LS2Patches_Patch` in that order should be anywhere after `Occlusion.esp`
 
 **Extra Notes:**
 

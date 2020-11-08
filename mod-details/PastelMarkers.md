@@ -18,6 +18,6 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.2.1, 2.4.0)
+* JaxomofRuatha (LS2 version 2.2.1, 2.4.0, 2.5.2)
   * Either mod goes after SkyHUD for install order
  

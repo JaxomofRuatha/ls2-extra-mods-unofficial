@@ -18,7 +18,7 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
   * `Fossilsyum.esp` before `ELE_SSE.esp`
   * `DBM_Fossils_Patch.esp` and `LOTD_TCC_Fossils.esp` in that order, currently before `ELE_SSE.esp` (NOTE: I reinstalled the Legacy of the Dragonborn Official Patches and Legacy of the Dragonborn SSE - The Curators Companion with different names and no other patches enabled to get these)
   * The "FMPSE 9-9 Script (v2.0)" mod can be added anywhere after the main Fossil Mining mod, it just needs to overwrite the script. This way you get 3x the ore from a mining spot, but the fossil chance will trigger. Apparently it is possible to forego this, but there may not be fossil checks on a single ore deposit (it seems like there is a global counter for "number of hits" that persists between nodes)

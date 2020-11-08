@@ -18,6 +18,6 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.2.1, 2.4.0)
-  * Mod files go anywhere after Gameplay Merged, Barenziah's Glory SE first, then overwritten by Barenziah's Glowing SE
+* JaxomofRuatha (LS2 version 2.2.1, 2.4.0, 2.5.2)
+  * Mod files go anywhere after "Gameplay Merged", "Barenziah's Glory SE" first, then overwritten by "Barenziah's Glowing SE"
   * I personally used the red default texture in the FOMOD

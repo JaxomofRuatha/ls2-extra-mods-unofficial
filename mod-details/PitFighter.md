@@ -17,5 +17,5 @@ _None_
 * [Chosti - Pit Fighter / USSEP Patch](/custom-patches/Pit%20Fighter%20Patch.esp)
 
 **Load/Install Order Notes:**
-* @chosti-factor (LS2 version 2.4.0), JaxomofRuatha (LS2 version 2.5.0)
+* @chosti-factor (LS2 version 2.4.0), JaxomofRuatha (LS2 version 2.5.0, 2.5.2)
   * Load `quest_pitfighter.esp`, `quest_pitfighter_dlc01.esp`, and `Pit Fighter Patch.esp`, in that order, before `Clockwork.esp` (and `Keld-Nar.esp` if you have it). I have the three loaded immediately before `JKs Skyrim.esp`.

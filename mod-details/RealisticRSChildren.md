@@ -21,7 +21,7 @@
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.5.0)
+* JaxomofRuatha (LS2 version 2.5.0, 2.5.2)
   * `RSkyrimChildren.esm` is currently after `More Gifts For Children.esl`
   * All remaining plugins are loaded after `LS2 Patches Merged.esp`, with `RSChildren.esp` first, then all patches from the "RS Children Patch Compendium", then `RealisticRSChildren.esp`, and finally the RRSC patches.
 

@@ -16,6 +16,6 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
   * Install the "Update" mod file after the main Final Cataclysm mod file
-  * INFERNAL FLAME.esp loaded before ELE_SSE.esp
+  * `INFERNAL FLAME.esp` loaded before `ELE_SSE.esp`

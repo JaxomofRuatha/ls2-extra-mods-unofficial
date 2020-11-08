@@ -25,14 +25,15 @@ _None_
 * [JOR - Beyond Reach and BS Bruma / Music Mods Merged Patch](/custom-patches/JOR_BrumaAndReach_MusicMerged_Patch.esp)
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
-  * Install the Beyond Skyrim - Bruma SE and DLC Integration Patch mods in that order after Beyond Reach (and Midwood Isle if using), but before Darkend
-  * BSAssets.esm, BSHeartland.esm, and BS_DLC_patch.esp should be placed before LegacyoftheDragonborn.esm in load order
-  * Qw_BeyondSkyrimBruma_USSEP Hotfix Patch.esp and Qw_ACE_BSHeartland Patch.esp should be placed in that order before AI Overhaul.esp and also before the Qwinn's Beyond Reach patches if using (NOTE: I reinstalled the QUASIPC - Qwinn's Unified Automated Self Installing Patch Compendium mod with a different name and disabled the unrelated patches)
-  * JOR_Qwinn_DBMBruma_Patch.esp should load after Qw_BeyondSkyrimBruma_USSEP and Qw_ACE_BSHeartland Patch.esp
-  * JOR_BSBruma_HearthfireExtended_Patch.esp, JOR_BSBruma_IdentityCrisis_Patch.esp, JOR_BSBruma_LS2Merges_Patch.esp, and JOR_BSBruma_Occlusion_LS2.4.0_Patch.esp should be loaded after zPatch.esp
-  * Convenient Horses patch (in my case CH BRU_BRE_MWI.esp since it covers three mods) should be placed after zPatch.esp (NOTE: I reinstalled the Bruma and Other Patches for Convenient Horses mod with a different name to get this patch)
-  * If Beyond Reach is installed:
-    * As noted above, I have arnima.esm before all of the BS Bruma ESMs in load order
-    * JOR_BSBruma_BeyondReach_Patch.esp should load after zPatch.esp
-    * Either JOR_BrumaAndReach_LS2Merges_Patch.esp OR JOR_BrumaAndReach_MusicMerged_Patch.esp should be loaded. The "LS2Merges" version should load after Occlusion.esp (this is if you DO NOT have Music Mods Merged installed), the "MusicMerged" version should load after MMM_OCW-patch.esp (this is if you DO have Music Mods Merged installed)
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
+  * Install the "Beyond Skyrim - Bruma SE" and DLC Integration Patch mods in that order after "Beyond Reach" (and "Midwood Isle" if using), but before "Darkend"
+  * `BSAssets.esm`, `BSHeartland.esm`, and `BS_DLC_patch.esp` should be placed before `LegacyoftheDragonborn.esm` in load order (and after `arnima.esm` if using)
+  * `Qw_BeyondSkyrimBruma_USSEP Hotfix Patch.esp` and `Qw_ACE_BSHeartland Patch.esp` should be placed in that order before `AI Overhaul.esp` and also before the Qwinn's Beyond Reach patches if using (NOTE: I reinstalled the "QUASIPC - Qwinn's Unified Automated Self Installing Patch Compendium" mod with a different name and disabled the unrelated patches)
+  * `JOR_Qwinn_DBMBruma_Patch.esp` should load after `Qw_BeyondSkyrimBruma_USSEP` and `Qw_ACE_BSHeartland Patch.esp`
+  * `JOR_BSBruma_HearthfireExtended_Patch.esp`, `JOR_BSBruma_IdentityCrisis_Patch.esp`, and `JOR_BSBruma_LS2Merges_Patch.esp` should be loaded after `zPatch.esp`
+  * `JOR_BSBruma_Occlusion_LS2.4.0_Patch.esp` should be loaded after `Occlusion.esp`
+  * Convenient Horses patch (in my case `CH BRU_BRE_MWI.esp` since it covers three mods) should be placed after `zPatch.esp` (NOTE: I reinstalled the "Bruma and Other Patches for Convenient Horses" mod with a different name to get this patch)
+  * If "Beyond Reach" is installed:
+    * As noted above, I have `arnima.esm` before all of the BS Bruma ESMs in load order
+    * `JOR_BSBruma_BeyondReach_Patch.esp` should load after `zPatch.esp`
+    * Either `JOR_BrumaAndReach_LS2Merges_Patch.esp` OR `JOR_BrumaAndReach_MusicMerged_Patch.esp` should be loaded. The "LS2Merges" version should load after `Occlusion.esp` (this is if you DO NOT have "Music Mods Merged" installed), the "MusicMerged" version should load after `MMM_OCW-patch.esp` (this is if you DO have "Music Mods Merged" installed)

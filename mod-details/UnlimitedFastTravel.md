@@ -16,5 +16,5 @@ _None_
 _None_
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
   * Should be fine anywhere in load order after the HUD plugins, I currently have after `Occlusion.esp`
