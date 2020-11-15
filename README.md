@@ -88,6 +88,10 @@ In some cases, there will need to be a dummy plugin that only contains basic inf
 
 <br>
 
+# **[Link to MCM Options](/custom-mcm-settings/MCMSettingsIndex.md)**
+
+<br>
+
 # Miscellaneous Patches and Tweaks
 
 ## Re-Add Nirnroot sounds from Immersive Sounds - Compendium
@@ -103,6 +107,35 @@ In some cases, there will need to be a dummy plugin that only contains basic inf
 
 ## Multi-version
 
+### Patch for calming down Sea of Spirits sharks
+
+This makes the sharks from Sea of Spirits a bit slower and less aggressive, as well as more difficult to end up on land.
+
+**Link:** [Patch by @chosti-factor](/custom-patches/LS2.Sea.of.Spirits.Patch.zip)
+
+**Load/Install Order Notes:**
+* JaxomofRuatha (LS2 version 2.5.2)
+  * I loaded `LS2 Sea of Spirits Patch.esp` before `enemies_releveled.esp`
+
+### Onmund BFB patch (LS 2.4.2, 2.5.2)
+
+Just a quick fix for Onmund's Black Face Bug, only known to be in LS 2.4.0+ (was referencing a head part of his that no longer existed)
+
+**Link:** [Patch by @seanpbelcher](/custom-patches/2.4.0/Onmund_BFB_fix.7z)
+
+### Fix options for race issues with Grace
+
+There is an issue with the Grace version used by LS (and more importantly patched by LS2 custom patches), and there are two main ways of fixing it:
+
+* Update "Grace - SkyRem Series AIO" to the newest version (5.3 at this time), and add [JOR_GraceUpdated_LS2Patches_Patch.esp](/custom-patches/JOR_GraceUpdated_LS2Patches_Patch.esp), loading the plugin after `zPatch.esp`. This will forward the official fix, and obviously adds any updates from the official mod
+* Use [hazarduss' custom patch](/custom-patches/Conjure_Familiar_fix_LS252.7z), loading `Conjure_Familiar_fix_LS252.esp` after `zPatch.esp`. This just changes the Breton version of the Conjure Familiar spell to use the same one as every other race (which means no familiar leveling with player character)
+
+There's also a problem with the Nord flaw in Grace applying the "less effective magic" flaw to things like potions. I haven't personally tested this fix, but [Grace_srRaceNordFlawPerk_fix2.esp](/custom-patches/Grace_srRaceNordFlawPerk_fix2.7z) should make it work as intended (again thanks to hazarduss for the patches!)
+
+### Clarity fix for default load order
+
+`ai overhaul patch.esp` is currently listed before `AI Overhaul.esp` in MO2, but in reality loads after it. I just moved the patch immediately after the main plugin (`AI Overhaul.esp` -> `ai overhaul patch.esp`) for clarity and to make sure that any intended overwrites happen as expected from the listed load order.
+
 ### Fix for Archery Gameplay Overhaul and Pretty Combat Animations issue
 
 Note: This may not work well in more recent LS versions, was originally for 2.0.2
@@ -112,6 +145,15 @@ Note: This may not work well in more recent LS versions, was originally for 2.0.
 **Load/Install Order Notes:**
 * TwistedModding
   * Place this patch after the mod: Compatibility Patch for Archery Gameplay Overhaul (AGO) and XP32 Skeleton Styles MCM
+
+### Custom "kitchen sink" conflict resolution patch (only use if you know what you're doing)
+
+I decided to upload the patch I created as the "final catch-all" conflict resolution patch for my "kitchen sink" playthrough of LS 2.5.2. There are some things in here that would probably be helpful even without all the extra stuff I have loaded, so feel free to make more modular edits to this if you know how, and I'll be happy to add them here, but it wasn't worth the effort to make separated patches pre-LS3.
+
+**Link:** [Patch by @JaxomofRuatha](/custom-patches/2.5.2/JOR_FinalPatch_CustomExtras.esp)
+
+**Load/Install Order Notes:**
+* This is intended to load as the very last item in load order, as it's basically a custom override for my specific plugins.
 
 ### Fix for human Serana eyes (included in LS 2.4.0+)
 

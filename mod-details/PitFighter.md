@@ -11,7 +11,7 @@
   * Fun mod, battles with a wide range of character levels, good voice acting overall, and variety of setting for battles makes it worth the install.
 
 **Official Patches:**
-_None_
+* https://www.nexusmods.com/skyrimspecialedition/mods/42340 (Optional, very new mod so not totally sure how stable everything is)
 
 **Custom Patches:**
 * [Chosti - Pit Fighter / USSEP Patch](/custom-patches/Pit%20Fighter%20Patch.esp)
@@ -19,3 +19,4 @@ _None_
 **Load/Install Order Notes:**
 * @chosti-factor (LS2 version 2.4.0), JaxomofRuatha (LS2 version 2.5.0, 2.5.2)
   * Load `quest_pitfighter.esp`, `quest_pitfighter_dlc01.esp`, and `Pit Fighter Patch.esp`, in that order, before `Clockwork.esp` (and `Keld-Nar.esp` if you have it). I have the three loaded immediately before `JKs Skyrim.esp`.
+  * `Faction - Pit Fighter - Revamped.esp`, if being used, is a dummy so should be able to go anywhere, I currently have it loaded at the very end of load order to not disrupt the plugin addresses (since I added it mid-save)

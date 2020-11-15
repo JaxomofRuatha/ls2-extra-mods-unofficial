@@ -1,8 +1,8 @@
 ## Realistic RS Children Overhaul
 
 **Links:** 
-* https://www.nexusmods.com/skyrimspecialedition/mods/2650 (Realistic RS Children, Realistic RS Children 4.7 Update)
-* https://www.nexusmods.com/skyrimspecialedition/mods/39359 (RSSE Children Overhaul 1.1.3 with hotfix 1)
+* https://www.nexusmods.com/skyrimspecialedition/mods/2650 (RSSE Children Overhaul 1.1.3 with hotfix 1)
+* https://www.nexusmods.com/skyrimspecialedition/mods/39359 (Realistic RS Children, Realistic RS Children 4.7 Update)
 
 **Summary:** A project to overhaul the children from RS Children Overhaul to make them look more realistic, unique and lore-friendly. 
 

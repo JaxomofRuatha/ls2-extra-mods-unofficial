@@ -2,6 +2,40 @@
 
 This isn't going to be anything terribly comprehensive, just intended to give an idea of which mods to check for changes if you updated before a certain date.
 
+### 11/14/2020
+
+- NEW MOD(s): Nemesis, The Ultimate Dodge Mod (and Attack Cancel), Combat Gameplay Overhaul, 360 Movement Behavior, Dynamic Animation Replacer, DAR - Dynamic Swimming, Jump Behavior Overhaul SE, Nemesis PCEA (grouping together mods requiring Nemesis for the moment)
+- NEW MOD: Gamepad Plus Plus
+- NEW MOD: Less Intrusive HUD II SE (including Pastel Map Markers mod)
+- NEW MOD: SSE Gameplay Tweaks
+- Added Sea of Spirits patch to Misc. Patches and Tweaks (from @chosti-factor)
+- Added Faction - Pit Fighter - Revamped to Faction - Pit Fighter
+- Fixed Kaidan instructions and updated Occlusion patch (so REDOWNLOAD if you have the earlier version!), and added a LOTD patch
+- Added new custom patches to Cheesemod/Triumvirate and Artifacts of Skyrim
+- Added personal MCM settings
+- Added newest playthrough's modlist and loadorder
+- Added plugins to compact FormIDs for ESL to custom updates page
+- Added Onmund BFB fix and Breton Familiar fixes to README
+
+### 11/7/2020
+
+- NEW MOD: Royal Armory - New Artifacts
+- NEW MOD: Staff Of Sheogorath
+- NEW MOD: Nordic Snow
+- NEW MOD: Kaidan 2 (including Pandorable's, and added his patch to the Legacy Followers Patch)
+- NEW MOD: Milk and Honey
+- NEW MOD: Teldryn Serious - A Teldryn Sero Backstory Quest SSE
+- NEW MOD: Blackreach Railroad
+- NEW MOD: Dwemer Spectres Special Edition
+- NEW MOD: Aethernautics- A Space Travel Mod
+- Added Unofficial Identity Crisis LOTD patch to Identity Crisis
+- Added CleverCharff's Bruma to BS Bruma information (optional), as well as a patch for Genesis (VERY recommended)
+- Updated extra notes for Strange Runes
+- Added instructions for removing several other mods and rebuilding merged plugins to README
+- Added a new section for changes to the base LS list (merges, updates, etc.)
+- Updated M'Rissi Tails of Troubles install instructions
+- NEW MOD: ....CHEESEMOD FOR EVERYONE! :D
+
 ### 10/12/2020
 
 - NEW MOD: Realistic RS Children

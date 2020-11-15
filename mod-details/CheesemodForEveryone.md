@@ -20,6 +20,7 @@ _None_
 * [JOR - Cheesemod / LOTD Patch](/custom-patches/JOR_Cheesemod_LOTD_Patch.esp)
 * [JOR - Cheesemod / Window Shadows Patch](/custom-patches/JOR_Cheesemod_WindowShadows_Patch.esp)
 * [JOR - Cheesemod / LS2 Containers and LLs Patch](/custom-patches/JOR_Cheesemod_LS2ContainersLL_Patch.esp)
+* [JOR - Cheesemod / Triumvirate Patch](/custom-patches/JOR_Cheesemod_Triumvirate_Patch.esp) (only if using Triumvirate)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.5.2)
@@ -34,3 +35,4 @@ _None_
       * Unhide plugins for LOTD Patches Merged, and edit the merge in zMerge. Under Plugins, select `JKs Arcadias Cauldron - Cheesemod Patch.esp` and `JKs Dragonsreach - Cheesemod Patch.esp`.
       * Move those two patches to the bottom on the Load Order tab, then build the merge. Exit zMerge, disable the plugins for the merge
   * `DBM_CheeseMod_Patch.esp` and `LOTD_TCC_CheeseMod.esp` in that order, currently before `ELE_SSE.esp` (NOTE: I reinstalled the Legacy of the Dragonborn Official Patches and Legacy of the Dragonborn SSE - The Curators Companion AFTER UPDATING THEM with different names and no other patches enabled to get these)
+  * If using, load `JOR_Cheesemod_Triumvirate_Patch.esp` after `zPatch.esp`

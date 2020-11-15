@@ -14,12 +14,13 @@ _None_
 * [The Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529)
 
 **Custom Patches:**
-_None_
+* [JOR - Amulets Of Skyrim / LS2 Patch](/custom-patches/JOR_ArtifactsOfSkyrim_LS2_Patch.esp)
 
 **CLEANING REQUIRED:**
 * Artifacts.esp
 
 **Load/Install Order Notes:**
-* JaxomofRuatha (LS2 version 2.4.0)
+* JaxomofRuatha (LS2 version 2.4.0, 2.5.2)
   * `Artifacts.esp` before `Audio Overhaul Skyrim.esp`
   * `DBM_ArtifactsOfSkyrim_Patch.esp` and `LOTD_TCC_ArtifactsSkyrim.esp` in that order, currently before `ELE_SSE.esp` (NOTE: I reinstalled the Legacy of the Dragonborn Official Patches and Legacy of the Dragonborn SSE - The Curators Companion with different names and no other patches enabled to get these)
+  * `JOR_ArtifactsOfSkyrim_LS2_Patch.esp` should be loaded after `zPatch.esp`

@@ -5,7 +5,7 @@ This is a list of the updates and changes I make to the base LS installation bef
 ## Mods that I have disabled/removed for more plugin slots
 
 * "iEquip"
-* "Toccata Follower SE (With Elisif Replacer Option)"
+* "Toccata Follower SE (With Elisif Replacer Option)" (NOTE: I ended up merging this plugin into "Pre-Final Steps Merge" and am using it with no issues thus far in my current playthrough)
 * "Hunter Archer Armor (by protese for SSE)
 * "SkyRem - Mia"
 * "Not So Fast - Main Quest"
@@ -17,14 +17,32 @@ This is a list of the updates and changes I make to the base LS installation bef
 * "Easter Eggs Merged"
   * Go to SSEEdit and select `Settlements Merged.esp`. Right click, Apply Script, Report masters, and select Easter Eggs Merged. Remove all records referencing, and then Clean Masters.
   * Do the same for `enemies_releveled.esp` (I only had one record to remove here). Exit SSEEdit and save changes to both plugins.
-  * Go to Tools -> Tool Plugins -> Merge Plugins Hide, right click "LS2 Patches Merged", Enable Plugins. Under the "LS2 Patches" mod, hide the `LS2 Easter Eggs Patch.esp` file (I put it to optional). Then go into zMerge, "remove unavailable plugins" for LS2 Patches Merged (should just be the one), and rebuild the patch. Exit zMerge and Disable Plugins for the merge.
+  * Go to Tools -> Tool Plugins -> Merge Plugins Hide, right click "LS2 Patches Merged", Enable Plugins. Under the "LS2 Patches" mod, hide the `LS2 Easter Eggs Patch.esp` file (I put it to optional). Then go into zMerge, "remove unavailable plugins" for LS2 Patches Merged (should just be the one), and rebuild the patch. Exit zMerge and Disable Plugins for the merge. Go into SSEEdit, and Clean Masters for `LS2 Patches Merged.esp`.
   * Then disable "Easter Eggs Merged".
+
+## Mods that I have compacted FormIDs to allow for ESL flagging
+
+These mods should be okay to ESL flag once one update is made. Load your full list of mods in SSEEdit, right click on the patch, and select "Compact FormIDs for ESL" from the menu. After this operation completes, you should be able to add an ESL flag to the plugin as usual.
+
+From my understanding, it SHOULD be safe to do this where the plugins meet the following criteria:
+* They are NOT the master for any other plugins (no other plugins are referring to them)
+* If there are scripts in the mod that use the `GetFormFromFile` function (I'd avoid any with scripts to be safe)
+* If there are NPC facegen or voice files in or referenced by the mod, or `INFO` and `NPC_` record types in the plugin 
+
+See https://tes5edit.github.io/docs/8-managing-mod-files.html#ImportantdangerswhencompactingFormIDs and https://www.afkmods.com/index.php?/topic/5079-plugin-files-and-you-esmeslesp/ for more details.
+
+Here are the very few plugins I personally decided to compact and ESL flag:
+* `EmbershardMineRevisited.esp`
+* `SteepfallBurrowRevisited.esp`
+* `WhiteRiverWatchRevisited.esp`
+* `HaltedStreamCampRevisited.esp`
+* `Northern Marsh Bridges SE.esp`
 
 ## New and Modified Merges
 
 ### Fixes to Miscellaneous Merged
 
-Currently there are 3 patches that are part of both Miscellaneous Merged and also separate in load order. NOTE: DO NOT ACTUALLY EDIT THIS MERGE. ONLY REBUILD.
+Currently there are 3 patches that are part of both Miscellaneous Merged and also separate in load order. **NOTE: DO NOT ACTUALLY EDIT THIS MERGE. ONLY REBUILD.**
 
 * `CFTO-JK-Patch.esp`
   * Delete `CFTO-JK-Patch.esp.mohidden` from "JK's Skyrim - Patches"

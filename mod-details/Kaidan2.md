@@ -10,17 +10,18 @@
 _None_
 
 **Official Patches:**
-* https://www.nexusmods.com/skyrimspecialedition/mods/23738 (Pandorable's Kaidan - hair fix SE)
+* https://www.nexusmods.com/skyrimspecialedition/mods/23738 (Pandorable's Kaidan SE)
 
 **Custom Patches:**
 * [JOR - Kaidan 2 / USSEP Patch](/custom-patches/JOR_Kaidan_USSEP_Patch.esp)
 * [JOR - Kaidan 2 / Occlusion Patch](/custom-patches/2.5.2/JOR_Kaidan_OcclusionLS2.5.2_Patch.esp)
+* [JOR - Kaidan 2 / LOTD Patch](/custom-patches/JOR_Kaidan_LOTD_Patch.esp) (This isn't strictly necessary, but forwards changes from Kaidan making "The Lusty Argonian Maid" a skill book for One-Handed :laughing:)
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.5.2)
-  * Make sure to unpack the BSA for "Kaidan 2" when installing. "Pandorable's Kaidan - hair fix SE" should be installed after the main "Kaidan 2" mod. Install both BEFORE "unofficial performance optimized textures AKA (UPOT)"
+  * Make sure to unpack the BSA for "Kaidan 2" when installing. "Pandorable's Kaidan" should be installed after the main "Kaidan 2" mod. Install both BEFORE "unofficial performance optimized textures AKA (UPOT)"
   * Load `0Kaidan.esp` before `BlackthornManor.esp`
-  * Load `JOR_Kaidan_USSEP_Patch.esp` after `zPatch.esp`, and `JOR_Kaidan_OcclusionLS2.5.2_Patch.esp` after `Occlusion.esp`
+  * Load `JOR_Kaidan_USSEP_Patch.esp` and `JOR_Kaidan_LOTD_Patch.esp` after `zPatch.esp`, and `JOR_Kaidan_OcclusionLS2.5.2_Patch.esp` after `Occlusion.esp`
 
 **Extra Notes:**
 

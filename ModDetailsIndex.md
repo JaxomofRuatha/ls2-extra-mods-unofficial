@@ -106,6 +106,22 @@
 
 ###### (:+1: @chosti-factor)
 
+#### [Nordic Snow](mod-details/NordicSnow.md)
+
+###### (:+1: @chosti-factor)
+
+#### [Gamepad Plus Plus](mod-details/GamepadPlusPlus.md)
+
+###### (:+1: @JaxomofRuatha)
+
+#### [Less Intrusive HUD II SE](mod-details/LessIntrusiveHUD.md)
+
+###### (:+1: @JaxomofRuatha)
+
+#### [SSE Gameplay Tweaks](mod-details/GameplayTweaks.md)
+
+###### (:+1: @JaxomofRuatha)
+
 ## Okay
 
 #### [Provincial Courier Service](mod-details/ProvincialCourierService.md)
@@ -202,8 +218,6 @@
 
 #### [Staff Of Sheogorath](mod-details/StaffOfSheogorath.md)
 
-#### [Nordic Snow](mod-details/NordicSnow.md)
-
 #### [Kaidan 2](mod-details/Kaidan2.md)
 
 #### [Milk and Honey](mod-details/MilkAndHoney.md)
@@ -254,8 +268,8 @@
 
 # Mods Under Review
 
-These are mods that are known through reputation, interest, or prior attempts to integrate, and either haven't been correctly integrated/patched for LS2 yet or haven't had an attempt to add them
+These are mods that are known through reputation, interest, or prior attempts to integrate, and either haven't been correctly integrated/patched for LS yet or haven't had an attempt to add them
 
 <br>
 
-#### [Cheesemod for EVERYONE](mod-details/CheesemodForEveryone.md)
+#### Undeath - Classical Lichdom
