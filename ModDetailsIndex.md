@@ -1,3 +1,13 @@
+# Added Mod Details
+
+These are the mods that have been added that are not included in LS in any form. Currently they're ordered by review status, with "Unreviewed" simply meaning that they seem to work in game but havent been tested in an actual playthrough just yet.
+
+## Nemesis
+
+#### [Nemesis and related mods](mod-details/Nemesis.md)
+
+This is getting separated out at the moment. For the most part "360 Movement Behavior" and "The Ultimate Dodge Mod" would basically be Must-Add if you choose to use Nemesis, but it's mostly in testing.
+
 ## Must-Add
 
 #### [Realistic RS Children Overhaul](mod-details/RealisticRSChildren.md)
