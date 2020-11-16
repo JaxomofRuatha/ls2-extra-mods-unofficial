@@ -240,6 +240,8 @@ This is getting separated out at the moment. For the most part "360 Movement Beh
 
 #### [Aethernautics- A Space Travel Mod](mod-details/Aethernautics.md)
 
+#### [Cheesemod for EVERYONE](mod-details/CheesemodForEveryone.md)
+
 ## Added to LS
 
 #### [MAPS (added LS 2.3.0)](mod-details/MAPS.md)
