@@ -117,11 +117,15 @@ This makes the sharks from Sea of Spirits a bit slower and less aggressive, as w
 * JaxomofRuatha (LS2 version 2.5.2)
   * I loaded `LS2 Sea of Spirits Patch.esp` before `enemies_releveled.esp`
 
-### Onmund BFB patch (LS 2.4.2, 2.5.2)
+### Black Face Bug Patches 2.5.2 (possibly 2.4.0+)
 
-Just a quick fix for Onmund's Black Face Bug, only known to be in LS 2.4.0+ (was referencing a head part of his that no longer existed)
+This patch should fix most of the black face bugs from LS 2.5.2, specifically Frea and a bunch of other Dragonborn DLC NPCs, a couple of housecarls, and the Onmund fix @seanpbelcher originally created. You should be able to add this mid-playthrough, as long as it's at the VERY END of your load order. I wasn't able to fix Iona (BaseID 000A2C91), since her textures seem to be missing, so if anyone knows how to fix her let me know! Also happy to add any other BFB fixes if they're found when using this.
 
-**Link:** [Patch by @seanpbelcher](/custom-patches/2.4.0/Onmund_BFB_fix.7z)
+**Link:** [Patch by @JaxomofRuatha](/custom-patches/2.5.2/JOR_BFB_LS2.5.2_Patch.esp)
+
+I'm including the original Onmund-only patch here as well, since I'm not sure the full one will work for LS versions prior to 2.5.2. If you're using the first patch, you do not need this one.
+
+**Link:** [Onmund-only patch by @seanpbelcher](/custom-patches/2.4.0/Onmund_BFB_fix.7z)
 
 ### Fix options for race issues with Grace
 
