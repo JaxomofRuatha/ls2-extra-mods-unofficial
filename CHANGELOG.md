@@ -2,6 +2,10 @@
 
 This isn't going to be anything terribly comprehensive, just intended to give an idea of which mods to check for changes if you updated before a certain date.
 
+### 11/28/2020
+
+- Updated 2.5.2 BFB patch to most recent version (same as current pin in LS Discord)
+
 ### 11/14/2020
 
 - NEW MOD(s): Nemesis, The Ultimate Dodge Mod (and Attack Cancel), Combat Gameplay Overhaul, 360 Movement Behavior, Dynamic Animation Replacer, DAR - Dynamic Swimming, Jump Behavior Overhaul SE, Nemesis PCEA (grouping together mods requiring Nemesis for the moment)
